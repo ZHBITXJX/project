@@ -1,0 +1,2195 @@
+{
+  "slideImage":[
+    "http://img60.ddimg.cn/ebook/201709/924/shuoming750L2.png",
+    "http://img60.ddimg.cn/picc/banner_vip0808-750-300.png"
+  ],
+  "content":[
+    {
+      "Bigmodule":[
+        {"icon":"http://img62.ddimg.cn/upload_img/00697/123/zyzhoub.png"},
+        {"icon":"http://img61.ddimg.cn/upload_img/00697/123/zyyueb.png"},
+        {"icon":"http://img63.ddimg.cn/upload_img/00697/123/zyshuku.png"}
+      ],
+      "Smallmodule":{
+        "title":{"icon":"","text":"关于租阅"},
+        "decription":" 租阅服务是指：购买租阅时长期内，您可以随意阅读租阅书库中的任意一本书。当下租阅书库共有7万余本。快来加入，读你想读。",
+        "lists": [
+          {
+            "isFull": 1,
+            "saleId": 1900471292,
+            "shelfStatus": 1,
+            "priceUnit": 1,
+            "mediaType": 2,
+            "avgStarLevel": 5,
+            "subTitle": "",
+            "title": "三体全集（全3册）",
+            "categoryIds": "KHMH",
+            "channelHall": false,
+            "chapterCnt": 97,
+            "mediaId": 1900471292,
+            "audioAuthor": "",
+            "isStore": 0,
+            "authorPenname": "刘慈欣",
+            "paperBookId": 23579654,
+            "paperBookPrice": 9300,
+            "creationDate": 1442922135000,
+            "price": 499,
+            "originalPrice": 93,
+            "coverPic": "http://img61.ddimg.cn/digital/product/12/92/1900471292_ii_cover.jpg?version=c3ecc427-0abf-497b-a345-a5dcd0d2b90c",
+            "promotionList": [
+              {
+                "stockStatus": 0,
+                "promotionPrice": 4.99
+              }
+            ],
+            "salePrice": 4.99,
+            "commentNumber": 1083,
+            "lowestPrice": 4.99
+          },
+          {
+            "isFull": 1,
+            "saleId": 1900470518,
+            "shelfStatus": 1,
+            "priceUnit": 10,
+            "mediaType": 2,
+            "avgStarLevel": 5,
+            "subTitle": "",
+            "title": "远山淡影（2017年诺贝尔文学奖获得者石黑一雄作品）",
+            "categoryIds": "SHCJ",
+            "channelHall": false,
+            "chapterCnt": 16,
+            "mediaId": 1900470518,
+            "audioAuthor": "",
+            "isStore": 0,
+            "authorPenname": "(英)石黑一雄(Kazuo Ishiguro)",
+            "paperBookId": 21061250,
+            "paperBookPrice": 2700,
+            "creationDate": 1444273787000,
+            "price": 1499,
+            "originalPrice": 27,
+            "coverPic": "http://img61.ddimg.cn/digital/product/5/18/1900470518_ii_cover.jpg?version=8e511aaa-28b2-4c8f-a0f8-4c6f4dc8beb0",
+            "promotionList": [
+              {
+                "stockStatus": 0,
+                "promotionPrice": 14.99
+              }
+            ],
+            "salePrice": 14.99,
+            "commentNumber": 26,
+            "lowestPrice": 14.99
+          },
+          {
+            "isFull": 1,
+            "saleId": 1900693517,
+            "shelfStatus": 1,
+            "priceUnit": 5,
+            "mediaType": 2,
+            "avgStarLevel": 5,
+            "subTitle": "帮你发现职业盲区，找到进阶精英人生的正确打开方式！",
+            "title": "停止盲目努力：你的人生需要再设计",
+            "categoryIds": "ZCRJJW",
+            "channelHall": false,
+            "chapterCnt": 43,
+            "mediaId": 1900693517,
+            "audioAuthor": "",
+            "isStore": 0,
+            "authorPenname": "赵晓璃",
+            "paperBookId": 25087594,
+            "paperBookPrice": 3800,
+            "creationDate": 1498461452000,
+            "price": 500,
+            "originalPrice": 38,
+            "coverPic": "http://img61.ddimg.cn/digital/product/35/17/1900693517_ii_cover.jpg?version=c1eb712e-561f-4361-b95f-e55f10f1c200",
+            "promotionList": [
+              {
+                "promotionType": 10000,
+                "promotionStartTime": 1505743200000,
+                "stockStatus": 0,
+                "promotionName": "畅销电子书每满10减4",
+                "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                "promotionDesc": "畅销电子书每满10减4",
+                "promotionAlias": "减",
+                "promotionPrams": {
+                  "code": "2648",
+                  "type": "column"
+                },
+                "promotionEndTime": 1508677200000,
+                "promotionPrice": 5
+              }
+            ],
+            "salePrice": 5,
+            "commentNumber": 167,
+            "lowestPrice": 5
+          }
+        ]
+      }
+    },
+    {
+      "Bigmodule":[
+        {"icon":"http://img61.ddimg.cn/upload_img/00697/123/zysd111.jpg"},
+        {"icon":"http://img61.ddimg.cn/upload_img/00697/123/zysd222.jpg"}
+      ],
+      "Smallmodule":[
+        {
+          "name": "大家都在看",
+          "lists": [
+            {
+              "isFull": 1,
+              "saleId": 1900481931,
+              "shelfStatus": 1,
+              "priceUnit": 1,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "摆渡人",
+              "categoryIds": "SHCJ",
+              "channelHall": false,
+              "chapterCnt": 35,
+              "mediaId": 1900481931,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "(英)克莱儿·麦克福尔",
+              "paperBookId": 23694647,
+              "paperBookPrice": 3600,
+              "creationDate": 1444631412000,
+              "price": 199,
+              "originalPrice": 36,
+              "coverPic": "http://img61.ddimg.cn/digital/product/19/31/1900481931_ii_cover.jpg?version=ba9fd84b-a72d-41b4-8ded-c2f0e98b938a",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 1.99
+                }
+              ],
+              "salePrice": 1.99,
+              "commentNumber": 2694,
+              "lowestPrice": 1.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900551323,
+              "shelfStatus": 1,
+              "priceUnit": 3,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "后宫·如懿传（6本套装）",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 189,
+              "mediaId": 1900551323,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "流潋紫",
+              "paperBookId": 23763121,
+              "paperBookPrice": 6767,
+              "creationDate": 1460109840000,
+              "price": 1599,
+              "originalPrice": 67.67,
+              "coverPic": "http://img61.ddimg.cn/digital/product/13/23/1900551323_ii_cover.jpg?version=de2c2485-31a6-41d9-8427-5b79b8818054",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 15.99
+                }
+              ],
+              "salePrice": 15.99,
+              "commentNumber": 77,
+              "lowestPrice": 15.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900440132,
+              "shelfStatus": 1,
+              "priceUnit": 5,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "收录老舍《抱孙》",
+              "title": "我这一辈子",
+              "categoryIds": "ZGJDDXS",
+              "channelHall": false,
+              "chapterCnt": 17,
+              "mediaId": 1900440132,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "老舍",
+              "paperBookId": 23704263,
+              "paperBookPrice": 2800,
+              "creationDate": 1437116525000,
+              "price": 199,
+              "originalPrice": 28,
+              "coverPic": "http://img60.ddimg.cn/digital/product/1/32/1900440132_ii_cover.jpg?version=29393a57-e5f3-436e-8fa5-dbd01ac73f86",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 1.99
+                }
+              ],
+              "salePrice": 1.99,
+              "commentNumber": 68,
+              "lowestPrice": 1.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900668432,
+              "shelfStatus": 1,
+              "priceUnit": 9,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "月亮与六便士（全本未删节插图珍藏版，毛姆经典代表作2017全新畅销译本）（作家榜出品）",
+              "categoryIds": "SJMZ",
+              "channelHall": false,
+              "chapterCnt": 64,
+              "mediaId": 1900668432,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "毛姆",
+              "paperBookId": 24175371,
+              "paperBookPrice": 3980,
+              "creationDate": 1490667153000,
+              "price": 112,
+              "originalPrice": 39.8,
+              "coverPic": "http://img62.ddimg.cn/digital/product/84/32/1900668432_ii_cover.jpg?version=518d04e7-9d2d-4f15-be9d-12801b7bad87",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 1.12
+                }
+              ],
+              "salePrice": 1.12,
+              "commentNumber": 101,
+              "lowestPrice": 1.12
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900470519,
+              "shelfStatus": 1,
+              "priceUnit": 8,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "浮世画家（2017年诺贝尔文学奖获得者石黑一雄作品）",
+              "categoryIds": "SHCJ",
+              "channelHall": false,
+              "chapterCnt": 7,
+              "mediaId": 1900470519,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "(英)石黑一雄(Kazuo Ishiguro)",
+              "paperBookId": 21080949,
+              "paperBookPrice": 2800,
+              "creationDate": 1444273787000,
+              "price": 1499,
+              "originalPrice": 28,
+              "coverPic": "http://img62.ddimg.cn/digital/product/5/19/1900470519_ii_cover.jpg?version=7af37c5f-6292-4800-9fac-c69372dd3bbf",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 14.99
+                }
+              ],
+              "salePrice": 14.99,
+              "commentNumber": 12,
+              "lowestPrice": 14.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900557348,
+              "shelfStatus": 1,
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "文学界不可逾越的王小波，知识群体必读作品！",
+              "title": "王小波文集八卷本",
+              "categoryIds": "WXZPJ",
+              "channelHall": false,
+              "chapterCnt": 290,
+              "mediaId": 1900557348,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "王小波",
+              "paperBookId": 23961335,
+              "paperBookPrice": 18600,
+              "creationDate": 1465377550000,
+              "price": 2399,
+              "originalPrice": 186,
+              "coverPic": "http://img62.ddimg.cn/digital/product/73/48/1900557348_ii_cover.jpg?version=ace7b3a7-eb99-4b6f-8c90-63a95158b1b2",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 23.99
+                }
+              ],
+              "salePrice": 23.99,
+              "commentNumber": 264,
+              "lowestPrice": 23.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900577257,
+              "shelfStatus": 1,
+              "priceUnit": 29,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "hello，早餐",
+              "categoryIds": "JCCP",
+              "channelHall": false,
+              "chapterCnt": 92,
+              "mediaId": 1900577257,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "子瑜妈妈",
+              "paperBookId": 23291110,
+              "paperBookPrice": 4000,
+              "creationDate": 1473820865000,
+              "price": 1200,
+              "originalPrice": 40,
+              "coverPic": "http://img61.ddimg.cn/digital/product/72/57/1900577257_ii_cover.jpg?version=8a7fa562-adf6-4241-bc82-6224f9332530",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 12
+                }
+              ],
+              "salePrice": 12,
+              "commentNumber": 18,
+              "lowestPrice": 12
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900450658,
+              "shelfStatus": 1,
+              "priceUnit": 1,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "领导力：如何在组织中成就卓越(第5版)",
+              "categoryIds": "GLX",
+              "channelHall": false,
+              "chapterCnt": 28,
+              "mediaId": 1900450658,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "(美)库泽斯(Kouzes,J.M.),(美)波斯纳(Posner,B.Z.)",
+              "paperBookId": 23163912,
+              "paperBookPrice": 4800,
+              "creationDate": 1443094743000,
+              "price": 2576,
+              "originalPrice": 48,
+              "coverPic": "http://img62.ddimg.cn/digital/product/6/58/1900450658_ii_cover.jpg?version=de24636a-d9dd-4daa-b4bf-91050583858e",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 25.76
+                }
+              ],
+              "salePrice": 25.76,
+              "commentNumber": 35,
+              "lowestPrice": 25.76
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900657486,
+              "shelfStatus": 1,
+              "priceUnit": 9,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "寻找时间的人",
+              "categoryIds": "SHCJ",
+              "channelHall": false,
+              "chapterCnt": 63,
+              "mediaId": 1900657486,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "凯特·汤普森,闫雪莲",
+              "paperBookId": 24188188,
+              "paperBookPrice": 3600,
+              "creationDate": 1489043773000,
+              "price": 350,
+              "originalPrice": 36,
+              "coverPic": "http://img62.ddimg.cn/digital/product/74/86/1900657486_ii_cover.jpg?version=c78d30c3-71cd-42a6-b43a-cc155911cfd3",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 3.5
+                }
+              ],
+              "salePrice": 3.5,
+              "commentNumber": 111,
+              "lowestPrice": 3.5
+            }
+          ],
+          "link":"点击查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule":[
+        {"icon":"http://img63.ddimg.cn/upload_img/00697/123/zysd444.jpg"},
+        {"icon":"http://img62.ddimg.cn/upload_img/00697/123/zysd333.jpg"}
+      ],
+      "Centermodule":[
+        {"icon":"http://img63.ddimg.cn/upload_img/00480/piccc/xiaoshuo2.gif"},
+        {"icon":"http://img61.ddimg.cn/upload_img/00480/piccc/wenxue2.gif"},
+        {"icon":"http://img60.ddimg.cn/upload_img/00480/piccc/jingguan2.gif" },
+        {"icon":"http://img62.ddimg.cn/upload_img/00480/piccc/lizhi2.gif"},
+        {"icon":"http://img60.ddimg.cn/upload_img/00480/piccc/sheke2.gif"},
+        {"icon":"http://img60.ddimg.cn/upload_img/00480/piccc/lishi2.gif"},
+        {"icon":"http://img62.ddimg.cn/upload_img/00480/piccc/shenghuo2.gif" },
+        {"icon":"http://img63.ddimg.cn/upload_img/00480/piccc/jiajiao2.gif"}
+      ],
+      "Smallmodule":[
+        {
+          "name": "新书驾到",
+          "lists": [
+            {
+              "isFull": 1,
+              "saleId": 1900680890,
+              "shelfStatus": 1,
+              "priceUnit": 9,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "你的善良必须有点锋芒",
+              "categoryIds": "LYYGRXY",
+              "channelHall": false,
+              "chapterCnt": 46,
+              "mediaId": 1900680890,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "慕言歌",
+              "paperBookId": 24015725,
+              "paperBookPrice": 3280,
+              "creationDate": 1494578879000,
+              "price": 360,
+              "originalPrice": 32.8,
+              "coverPic": "http://img60.ddimg.cn/digital/product/8/90/1900680890_ii_cover.jpg?version=6fed950d-d26d-4328-ac3a-172ff2fd0e11",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 3.6
+                }
+              ],
+              "salePrice": 3.6,
+              "commentNumber": 156,
+              "lowestPrice": 3.6
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900685366,
+              "shelfStatus": 1,
+              "priceUnit": 11,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "郭子健执导，彭于晏 倪妮 余文乐 郑爽 俞飞鸿 乔杉倾情出演",
+              "title": "悟空传(典藏纪念版)",
+              "categoryIds": "XHJS,CYYQ",
+              "channelHall": false,
+              "chapterCnt": 10,
+              "mediaId": 1900685366,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "今何在",
+              "paperBookId": 25076220,
+              "paperBookPrice": 3980,
+              "creationDate": 1496222808000,
+              "price": 499,
+              "originalPrice": 39.8,
+              "coverPic": "http://img62.ddimg.cn/digital/product/53/66/1900685366_ii_cover.jpg?version=ea8c2a4a-e402-4ea1-8f42-ca21ec55ce28",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 4.99
+                }
+              ],
+              "salePrice": 4.99,
+              "commentNumber": 241,
+              "lowestPrice": 4.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900676777,
+              "shelfStatus": 1,
+              "priceUnit": 6,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "我喜欢生命本来的样子",
+              "categoryIds": "WXZPJ",
+              "channelHall": false,
+              "chapterCnt": 66,
+              "mediaId": 1900676777,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "周国平",
+              "paperBookId": 24198400,
+              "paperBookPrice": 4500,
+              "creationDate": 1493359565000,
+              "price": 500,
+              "originalPrice": 45,
+              "coverPic": "http://img60.ddimg.cn/digital/product/67/77/1900676777_ii_cover.jpg?version=13163953-2600-4118-a5d7-0f8fa8cb1b0a",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5
+                }
+              ],
+              "salePrice": 5,
+              "commentNumber": 93,
+              "lowestPrice": 5
+            },
+            {
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900681746,
+              "shelfStatus": 1,
+              "authorPenname": "哇坑ＭＭ",
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1495504721000,
+              "title": "狼性老公，玩刺激！",
+              "price": 2803,
+              "originalPrice": 28.03,
+              "categoryIds": "QGDS",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/17/46/1900681746_ii_cover.jpg?version=a279ca70-27f3-4539-a282-4793e2b71a8e",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 28.03
+                }
+              ],
+              "salePrice": 28.03,
+              "chapterCnt": 525,
+              "commentNumber": 20,
+              "lowestPrice": 28.03
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900676718,
+              "shelfStatus": 1,
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "浮生六记（作家榜经典）",
+              "categoryIds": "SB",
+              "channelHall": false,
+              "chapterCnt": 175,
+              "mediaId": 1900676718,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "沈复",
+              "paperBookId": 24236840,
+              "paperBookPrice": 4500,
+              "creationDate": 1492751376000,
+              "price": 110,
+              "originalPrice": 45,
+              "coverPic": "http://img62.ddimg.cn/digital/product/67/18/1900676718_ii_cover.jpg?version=b22ab2fa-ce50-4160-9e98-fc52af80b7c8",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 1.1
+                }
+              ],
+              "salePrice": 1.1,
+              "commentNumber": 25,
+              "lowestPrice": 1.1
+            },
+            {
+              "mediaId": 1900681762,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900681762,
+              "shelfStatus": 1,
+              "authorPenname": "胭脂泪",
+              "priceUnit": 3,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1495526354000,
+              "title": "国色天香：异姓王爷俏皇妃",
+              "price": 1962,
+              "originalPrice": 19.62,
+              "categoryIds": "QGDS",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/17/62/1900681762_ii_cover.jpg?version=10737cde-f80e-43e7-839f-fe77bb338e71",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 19.62
+                }
+              ],
+              "salePrice": 19.62,
+              "chapterCnt": 215,
+              "commentNumber": 20,
+              "lowestPrice": 19.62
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900681122,
+              "shelfStatus": 1,
+              "priceUnit": 19,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "别说你会吃日料-日料控必读经典！不端不装的吃货指南",
+              "categoryIds": "YSWH",
+              "channelHall": false,
+              "chapterCnt": 62,
+              "mediaId": 1900681122,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "碗丸,中午十三点",
+              "paperBookId": 24242794,
+              "paperBookPrice": 3980,
+              "creationDate": 1494928946000,
+              "price": 1300,
+              "originalPrice": 39.8,
+              "coverPic": "http://img62.ddimg.cn/digital/product/11/22/1900681122_ii_cover.jpg?version=2259ba59-6409-4188-98f3-c6e115b2cb25",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 13
+                }
+              ],
+              "salePrice": 13,
+              "commentNumber": 10,
+              "lowestPrice": 13
+            },
+            {
+              "mediaId": 1900675334,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900675334,
+              "shelfStatus": 1,
+              "authorPenname": "李宗吾",
+              "priceUnit": 3,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1492686098000,
+              "title": "厚黑学",
+              "price": 699,
+              "originalPrice": 6.99,
+              "categoryIds": "RLXSHX",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/53/34/1900675334_ii_cover.jpg?version=d23aa81e-cf72-46e5-acec-d8af38445a9a",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 6.99
+                }
+              ],
+              "salePrice": 6.99,
+              "chapterCnt": 42,
+              "commentNumber": 55,
+              "lowestPrice": 6.99
+            },
+            {
+              "mediaId": 1900683949,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900683949,
+              "shelfStatus": 1,
+              "authorPenname": "三联生活周刊编辑部",
+              "priceUnit": 7,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1496385241000,
+              "title": "三联生活周刊·朝鲜这六年（2017年19期）",
+              "price": 1000,
+              "originalPrice": 10,
+              "categoryIds": "DDJKSH",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/39/49/1900683949_ii_cover.jpg?version=c4df01cc-1581-49e0-83e0-84ac3163f5de",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 10
+                }
+              ],
+              "salePrice": 10,
+              "chapterCnt": 160,
+              "commentNumber": 46,
+              "lowestPrice": 10
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900676932,
+              "shelfStatus": 1,
+              "priceUnit": 17,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "从容淡定做自己",
+              "categoryIds": "CGJL",
+              "channelHall": false,
+              "chapterCnt": 53,
+              "mediaId": 1900676932,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "素手纤云",
+              "paperBookId": 24229205,
+              "paperBookPrice": 3600,
+              "creationDate": 1493286648000,
+              "price": 1553,
+              "originalPrice": 36,
+              "coverPic": "http://img62.ddimg.cn/digital/product/69/32/1900676932_ii_cover.jpg?version=2a96c52a-df30-43a3-bdee-35be815c8f1d",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 15.53
+                }
+              ],
+              "salePrice": 15.53,
+              "commentNumber": 25,
+              "lowestPrice": 15.53
+            },
+            {
+              "mediaId": 1900688607,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900688607,
+              "shelfStatus": 1,
+              "authorPenname": "沐卿阳",
+              "priceUnit": 4,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1497509433000,
+              "title": "腹黑王爷叛逆妃",
+              "price": 601,
+              "originalPrice": 6.01,
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/86/7/1900688607_ii_cover.jpg?version=b1b1a8b2-c255-496c-98b4-88c30809e1d7",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 6.01
+                }
+              ],
+              "salePrice": 6.01,
+              "chapterCnt": 61,
+              "commentNumber": 11,
+              "lowestPrice": 6.01
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900683011,
+              "shelfStatus": 1,
+              "priceUnit": 14,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "小王子（唯一荣获法国骑士勋章诗人译自法语原版定本！独家收录46幅高清插图！）（作家榜出品）",
+              "categoryIds": "SJMZ",
+              "channelHall": false,
+              "chapterCnt": 31,
+              "mediaId": 1900683011,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "(法)圣-埃克苏佩里",
+              "paperBookId": 24182940,
+              "paperBookPrice": 3980,
+              "creationDate": 1495699531000,
+              "price": 110,
+              "originalPrice": 39.8,
+              "coverPic": "http://img62.ddimg.cn/digital/product/30/11/1900683011_ii_cover.jpg?version=54bf5398-3a4d-44f0-ad61-496a61422e7e",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 1.1
+                }
+              ],
+              "salePrice": 1.1,
+              "commentNumber": 51,
+              "lowestPrice": 1.1
+            }
+
+          ],
+          "link":"点击查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule":[
+        {"icon":"http://img63.ddimg.cn/upload_img/00697/123/zysd555.jpg"},
+        {"icon":"http://img63.ddimg.cn/upload_img/00697/123/zysd666.jpg"}
+      ],
+      "Centermodule":[
+        {"icon":"http://img61.ddimg.cn/vip01/xuanyi0111.gif"},
+        {"icon":"http://img63.ddimg.cn/vip01/dushi0111.gif"},
+        {"icon":"http://img62.ddimg.cn/vip01/xinling0111.gif" },
+        {"icon":"http://img61.ddimg.cn/vip01/guanli0111.gif"}
+      ],
+      "Smallmodule":[
+        {
+          "name": "下载更多",
+          "lists": [
+            {
+              "isFull": 1,
+              "saleId": 1900555116,
+              "shelfStatus": 1,
+              "priceUnit": 299,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "你今天真好看",
+              "categoryIds": "MHDM",
+              "channelHall": false,
+              "chapterCnt": 8,
+              "mediaId": 1900555116,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "（美）莉兹•克里莫",
+              "paperBookId": 23738651,
+              "paperBookPrice": 3900,
+              "creationDate": 1462950030000,
+              "price": 599,
+              "originalPrice": 39,
+              "coverPic": "http://img61.ddimg.cn/digital/product/51/16/1900555116_ii_cover.jpg?version=5b872d28-0118-42b6-b053-a65d14ffb16a",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5.99
+                }
+              ],
+              "salePrice": 5.99,
+              "commentNumber": 248,
+              "lowestPrice": 5.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900685997,
+              "shelfStatus": 1,
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "分好类 超好背 15000英语单词便携口袋书 英语口语词汇学习 英语入门 一次彻底掌握(双速学习版)",
+              "categoryIds": "YWJF",
+              "channelHall": false,
+              "chapterCnt": 577,
+              "mediaId": 1900685997,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "耿小辉,(加)Larissa Cherry,(加)Jordan Andre,Michael Philip,昂秀外语教学研究组",
+              "paperBookId": 23649710,
+              "paperBookPrice": 3880,
+              "creationDate": 1496819551000,
+              "price": 399,
+              "originalPrice": 38.8,
+              "coverPic": "http://img62.ddimg.cn/digital/product/59/97/1900685997_ii_cover.jpg?version=dd943e8c-02a1-41fb-a023-dfe07cca7627",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 3.99
+                }
+              ],
+              "salePrice": 3.99,
+              "commentNumber": 92,
+              "lowestPrice": 3.99
+            },
+            {
+              "mediaId": 1900645548,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900645548,
+              "shelfStatus": 1,
+              "authorPenname": "李娟等",
+              "priceUnit": 5,
+              "mediaType": 2,
+              "paperBookPrice": 43800,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1481784010000,
+              "title": "每天读一点文化常识(套装共13册)",
+              "price": 4999,
+              "originalPrice": 438,
+              "categoryIds": "WHLLYPS",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/55/48/1900645548_ii_cover.jpg?version=8fc337c2-9859-4942-95a5-2ccda54e4f8d",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 49.99
+                }
+              ],
+              "salePrice": 49.99,
+              "chapterCnt": 2064,
+              "commentNumber": 10,
+              "lowestPrice": 49.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900668060,
+              "shelfStatus": 1,
+              "priceUnit": 12,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "别输在不懂说话上",
+              "categoryIds": "ZCRJJW",
+              "channelHall": false,
+              "chapterCnt": 11,
+              "mediaId": 1900668060,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "王飞鸿",
+              "paperBookId": 24143268,
+              "paperBookPrice": 3800,
+              "creationDate": 1490267209000,
+              "price": 2198,
+              "originalPrice": 38,
+              "coverPic": "http://img62.ddimg.cn/digital/product/80/60/1900668060_ii_cover.jpg?version=3a4808f0-e816-4673-9d36-f69644f9b633",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 21.98
+                }
+              ],
+              "salePrice": 21.98,
+              "commentNumber": 43,
+              "lowestPrice": 21.98
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900352383,
+              "shelfStatus": 1,
+              "priceUnit": 3,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "爱奇艺热播犯罪悬疑网络剧原著",
+              "title": "无证之罪",
+              "categoryIds": "ZTXYTL",
+              "channelHall": false,
+              "chapterCnt": 12,
+              "mediaId": 1900352383,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "紫金陈",
+              "paperBookId": 23397477,
+              "paperBookPrice": 3200,
+              "creationDate": 1419260800000,
+              "price": 499,
+              "originalPrice": 32,
+              "coverPic": "http://img60.ddimg.cn/digital/product/23/83/1900352383_ii_cover.jpg?version=92ee6ce8-140a-4583-88e5-9800a0943e02",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 4.99
+                }
+              ],
+              "salePrice": 4.99,
+              "commentNumber": 239,
+              "lowestPrice": 4.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900335870,
+              "shelfStatus": 1,
+              "priceUnit": 9,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "你的效率是整理出来的",
+              "categoryIds": "ZCRJJW",
+              "channelHall": false,
+              "chapterCnt": 98,
+              "mediaId": 1900335870,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "张一弛",
+              "paperBookId": 23340188,
+              "paperBookPrice": 3000,
+              "creationDate": 1419260745000,
+              "price": 999,
+              "originalPrice": 30,
+              "coverPic": "http://img60.ddimg.cn/digital/product/58/70/1900335870_ii_cover.jpg?version=d8dd78bd-67e4-4be3-b799-74acfcbc138b",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 9.99
+                }
+              ],
+              "salePrice": 9.99,
+              "commentNumber": 148,
+              "lowestPrice": 9.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900625702,
+              "shelfStatus": 1,
+              "priceUnit": 13,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "做一个刚刚好的女子：不攀附，不将就（精装纪念版）",
+              "categoryIds": "SB",
+              "channelHall": false,
+              "chapterCnt": 53,
+              "mediaId": 1900625702,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "晚情",
+              "paperBookId": 23997109,
+              "paperBookPrice": 5900,
+              "creationDate": 1479700680000,
+              "price": 1200,
+              "originalPrice": 59,
+              "coverPic": "http://img61.ddimg.cn/digital/product/57/2/1900625702_ii_cover.jpg?version=489a2fc0-f7d7-4b02-bee5-eff5ddb99911",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 12
+                }
+              ],
+              "salePrice": 12,
+              "commentNumber": 203,
+              "lowestPrice": 12
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900652139,
+              "shelfStatus": 1,
+              "priceUnit": 13,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "把话说到心窝里(套装共4册)",
+              "categoryIds": "KCYJBL",
+              "channelHall": false,
+              "chapterCnt": 64,
+              "mediaId": 1900652139,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "(美)刘墉",
+              "paperBookId": 23995236,
+              "paperBookPrice": 7490,
+              "creationDate": 1484294790000,
+              "price": 2599,
+              "originalPrice": 74.9,
+              "coverPic": "http://img60.ddimg.cn/digital/product/21/39/1900652139_ii_cover.jpg?version=4a8c8d78-e3d9-4df1-8a6e-944cf43e5877",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 25.99
+                }
+              ],
+              "salePrice": 25.99,
+              "commentNumber": 95,
+              "lowestPrice": 25.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900576781,
+              "shelfStatus": 1,
+              "priceUnit": 144,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "行走江湖必备，终结谬论的神器！一部脑洞大开的极简逻辑入门指南",
+              "title": "神逻辑:不讲道理的人怎么总有理!",
+              "categoryIds": "ZX",
+              "channelHall": false,
+              "chapterCnt": 26,
+              "mediaId": 1900576781,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "（美）阿里·阿莫萨维,（哥伦）亚历杭德罗·希拉尔多",
+              "paperBookId": 23947362,
+              "paperBookPrice": 4000,
+              "creationDate": 1472815915000,
+              "price": 999,
+              "originalPrice": 40,
+              "coverPic": "http://img61.ddimg.cn/digital/product/67/81/1900576781_ii_cover.jpg?version=67d783e1-6a9d-46ad-8148-c0a965e45c35",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 9.99
+                }
+              ],
+              "salePrice": 9.99,
+              "commentNumber": 91,
+              "lowestPrice": 9.99
+            }
+
+          ],
+          "link":"点击查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule":[
+        {"icon":"http://img60.ddimg.cn/vip01/chengong0111.gif" },
+        {"icon":"http://img63.ddimg.cn/vip01/lishi0111.gif"},
+        {"icon":"http://img62.ddimg.cn/vip01/shili0111.gif"},
+        {"icon":"http://img63.ddimg.cn/vip01/koucai0111.gif" }
+      ],
+      "Smallmodule":[
+        {
+          "name": "原创文学",
+          "lists": [
+            {
+              "isFull": 1,
+              "saleId": 1900654853,
+              "shelfStatus": 1,
+              "priceUnit": 3,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "今非昔比(全集)",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 35,
+              "mediaId": 1900654853,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "依秀那答儿",
+              "paperBookId": 23412870,
+              "paperBookPrice": 8040,
+              "creationDate": 1487920734000,
+              "price": 599,
+              "originalPrice": 80.4,
+              "coverPic": "http://img61.ddimg.cn/digital/product/48/53/1900654853_ii_cover.jpg?version=b8b498f4-0ebf-48aa-8d8a-9d71334e3fcd",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5.99
+                }
+              ],
+              "salePrice": 5.99,
+              "commentNumber": 88,
+              "lowestPrice": 5.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900611173,
+              "shelfStatus": 1,
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "东宫",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 6,
+              "mediaId": 1900611173,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "匪我思存",
+              "paperBookId": 20861423,
+              "paperBookPrice": 2800,
+              "creationDate": 1479781040000,
+              "price": 840,
+              "originalPrice": 28,
+              "coverPic": "http://img60.ddimg.cn/digital/product/11/73/1900611173_ii_cover.jpg?version=71d37a42-6c5c-424b-b102-c5a212e8cb87",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 8.4
+                }
+              ],
+              "salePrice": 8.4,
+              "commentNumber": 149,
+              "lowestPrice": 8.4
+            },
+            {
+              "mediaId": 1900688607,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900688607,
+              "shelfStatus": 1,
+              "authorPenname": "沐卿阳",
+              "priceUnit": 4,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1497509433000,
+              "title": "腹黑王爷叛逆妃",
+              "price": 601,
+              "originalPrice": 6.01,
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/86/7/1900688607_ii_cover.jpg?version=b1b1a8b2-c255-496c-98b4-88c30809e1d7",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 6.01
+                }
+              ],
+              "salePrice": 6.01,
+              "chapterCnt": 61,
+              "commentNumber": 11,
+              "lowestPrice": 6.01
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900559446,
+              "shelfStatus": 1,
+              "priceUnit": 5,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "鹤唳华亭",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 80,
+              "mediaId": 1900559446,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "雪满梁园",
+              "paperBookId": 23547560,
+              "paperBookPrice": 5000,
+              "creationDate": 1465710630000,
+              "price": 747,
+              "originalPrice": 50,
+              "coverPic": "http://img60.ddimg.cn/digital/product/94/46/1900559446_ii_cover.jpg?version=a25f75f4-7406-4e44-9742-951b9f7a7778",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 7.47
+                }
+              ],
+              "salePrice": 7.47,
+              "commentNumber": 15,
+              "lowestPrice": 7.47
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900423518,
+              "shelfStatus": 1,
+              "priceUnit": 1,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "庶本荣华(套装共3册)",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 94,
+              "mediaId": 1900423518,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "闲庭信步",
+              "paperBookId": 23665822,
+              "paperBookPrice": 7000,
+              "creationDate": 1429524052000,
+              "price": 599,
+              "originalPrice": 70,
+              "coverPic": "http://img61.ddimg.cn/digital/product/35/18/1900423518_ii_cover.jpg?version=0e24def1-41f7-4803-93ff-8491003b8acc",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5.99
+                }
+              ],
+              "salePrice": 5.99,
+              "commentNumber": 258,
+              "lowestPrice": 5.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900654860,
+              "shelfStatus": 1,
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "烟锁御宫之残颜皇后(套装共2册)",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 45,
+              "mediaId": 1900654860,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "依秀那答儿",
+              "paperBookId": 22778029,
+              "paperBookPrice": 4980,
+              "creationDate": 1487921525000,
+              "price": 599,
+              "originalPrice": 49.8,
+              "coverPic": "http://img60.ddimg.cn/digital/product/48/60/1900654860_ii_cover.jpg?version=a338e408-1686-4206-a56d-e47eeffa4c86",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5.99
+                }
+              ],
+              "salePrice": 5.99,
+              "commentNumber": 9,
+              "lowestPrice": 5.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900568384,
+              "shelfStatus": 1,
+              "priceUnit": 2,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "昭奚旧草(套装共2册)",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 19,
+              "mediaId": 1900568384,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "书海沧生",
+              "paperBookId": 23656440,
+              "paperBookPrice": 4980,
+              "creationDate": 1470753806000,
+              "price": 299,
+              "originalPrice": 49.8,
+              "coverPic": "http://img62.ddimg.cn/digital/product/83/84/1900568384_ii_cover.jpg?version=ba359905-bb4f-4532-a751-f079f2561576",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 2.99
+                }
+              ],
+              "salePrice": 2.99,
+              "commentNumber": 37,
+              "lowestPrice": 2.99
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900284194,
+              "shelfStatus": 1,
+              "priceUnit": 4,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "江山莲(上、下)",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 100,
+              "mediaId": 1900284194,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "柳如烟",
+              "paperBookId": 20830411,
+              "paperBookPrice": 4500,
+              "creationDate": 1419260581000,
+              "price": 1500,
+              "originalPrice": 45,
+              "coverPic": "http://img61.ddimg.cn/digital/product/41/94/1900284194_ii_cover.jpg?version=13b5700e-9aa1-426b-98a0-33b7d7243410",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 15
+                }
+              ],
+              "salePrice": 15,
+              "commentNumber": 28,
+              "lowestPrice": 15
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900339100,
+              "shelfStatus": 1,
+              "priceUnit": 4,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "特工狂妃",
+              "categoryIds": "CYYQ",
+              "channelHall": false,
+              "chapterCnt": 36,
+              "mediaId": 1900339100,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "藏珠",
+              "paperBookId": 23381161,
+              "paperBookPrice": 3700,
+              "creationDate": 1419260758000,
+              "price": 1220,
+              "originalPrice": 37,
+              "coverPic": "http://img61.ddimg.cn/digital/product/91/0/1900339100_ii_cover.jpg?version=113d7d14-5c6d-423c-bc56-9a482248d3a1",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 12.2
+                }
+              ],
+              "salePrice": 12.2,
+              "commentNumber": 39,
+              "lowestPrice": 12.2
+            }
+
+          ],
+          "link":"点击查看更多>>"
+        }
+      ]
+    },
+    {
+      "Smallmodule":[
+        {
+         "name": "幽默漫画",
+         "lists": [
+        {
+          "isFull": 1,
+          "saleId": 1900313081,
+          "shelfStatus": 1,
+          "priceUnit": 5,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "笑吧，千万别忍着",
+          "categoryIds": "YMXHJ",
+          "channelHall": false,
+          "chapterCnt": 168,
+          "mediaId": 1900313081,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "苏豫",
+          "paperBookId": 22472039,
+          "paperBookPrice": 2800,
+          "creationDate": 1419260673000,
+          "price": 50,
+          "originalPrice": 28,
+          "coverPic": "http://img61.ddimg.cn/digital/product/30/81/1900313081_ii_cover.jpg?version=e55dd059-8fa7-4d75-8609-2b1ab8f54489",
+          "promotionList": [
+            {
+              "stockStatus": 0,
+              "promotionPrice": 0.5
+            }
+          ],
+          "salePrice": 0.5,
+          "commentNumber": 49,
+          "lowestPrice": 0.5
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900558445,
+          "shelfStatus": 1,
+          "priceUnit": 999,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "我可以咬一口吗",
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "chapterCnt": 8,
+          "mediaId": 1900558445,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "(美)莉兹·克里莫",
+          "paperBookId": 23946089,
+          "paperBookPrice": 3900,
+          "creationDate": 1465695351000,
+          "price": 975,
+          "originalPrice": 39,
+          "coverPic": "http://img60.ddimg.cn/digital/product/84/45/1900558445_ii_cover.jpg?version=e09ea901-8e99-4e63-a425-d77c7cb10876",
+          "promotionList": [
+            {
+              "promotionType": 10000,
+              "promotionStartTime": 1505743200000,
+              "stockStatus": 0,
+              "promotionName": "畅销电子书每满10减4",
+              "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+              "promotionDesc": "畅销电子书每满10减4",
+              "promotionAlias": "减",
+              "promotionPrams": {
+                "code": "2648",
+                "type": "column"
+              },
+              "promotionEndTime": 1508677200000,
+              "promotionPrice": 9.75
+            }
+          ],
+          "salePrice": 9.75,
+          "commentNumber": 60,
+          "lowestPrice": 9.75
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900573551,
+          "shelfStatus": 1,
+          "priceUnit": 45,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "你好，旧时光(漫画版1)",
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "chapterCnt": 11,
+          "mediaId": 1900573551,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "八月长安　著，golo　编绘",
+          "paperBookId": 23767915,
+          "paperBookPrice": 3500,
+          "creationDate": 1472723020000,
+          "price": 799,
+          "originalPrice": 35,
+          "coverPic": "http://img61.ddimg.cn/digital/product/35/51/1900573551_ii_cover.jpg?version=eb317b05-cb0a-4912-8eef-b82b96f4af2b",
+          "promotionList": [
+            {
+              "stockStatus": 0,
+              "promotionPrice": 7.99
+            }
+          ],
+          "salePrice": 7.99,
+          "commentNumber": 14,
+          "lowestPrice": 7.99
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900376681,
+          "shelfStatus": 1,
+          "priceUnit": 131,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "明朝那些事儿·壹(漫画版)",
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "chapterCnt": 305,
+          "mediaId": 1900376681,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "当年明月,狐周周",
+          "paperBookId": 23496445,
+          "paperBookPrice": 3500,
+          "creationDate": 1419260848000,
+          "price": 390,
+          "originalPrice": 35,
+          "coverPic": "http://img62.ddimg.cn/digital/product/66/81/1900376681_ii_cover.jpg?version=583ab039-bc2a-4b4c-92b6-18441e40fc4e",
+          "promotionList": [
+            {
+              "stockStatus": 0,
+              "promotionPrice": 3.9
+            }
+          ],
+          "salePrice": 3.9,
+          "commentNumber": 12,
+          "lowestPrice": 3.9
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900581631,
+          "shelfStatus": 1,
+          "priceUnit": 1950,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "喵呜，原来你是这种汪(一本在喷饭与内涵间游走的书)",
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "chapterCnt": 3,
+          "mediaId": 1900581631,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "[美]雷扎.法拉兹曼",
+          "paperBookId": 23981711,
+          "paperBookPrice": 4300,
+          "creationDate": 1473237320000,
+          "price": 399,
+          "originalPrice": 43,
+          "coverPic": "http://img62.ddimg.cn/digital/product/16/31/1900581631_ii_cover.jpg?version=174a0fa8-5a34-4a2d-b6ae-1adee9cd231d",
+          "promotionList": [
+            {
+              "promotionType": 10000,
+              "promotionStartTime": 1505743200000,
+              "stockStatus": 0,
+              "promotionName": "畅销电子书每满10减4",
+              "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+              "promotionDesc": "畅销电子书每满10减4",
+              "promotionAlias": "减",
+              "promotionPrams": {
+                "code": "2648",
+                "type": "column"
+              },
+              "promotionEndTime": 1508677200000,
+              "promotionPrice": 3.99
+            }
+          ],
+          "salePrice": 3.99,
+          "commentNumber": 17,
+          "lowestPrice": 3.99
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900605152,
+          "shelfStatus": 1,
+          "priceUnit": 145,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "就是想看你笑的样子(如果生活不能让你笑笑，那你就笑笑生活)",
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "chapterCnt": 108,
+          "mediaId": 1900605152,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "懒兔子",
+          "paperBookId": 24059607,
+          "paperBookPrice": 4000,
+          "creationDate": 1478685170000,
+          "price": 838,
+          "originalPrice": 40,
+          "coverPic": "http://img61.ddimg.cn/digital/product/51/52/1900605152_ii_cover.jpg?version=5a33db2d-c2a8-433c-9e39-8b421b9f2e11",
+          "promotionList": [
+            {
+              "promotionType": 10000,
+              "promotionStartTime": 1505743200000,
+              "stockStatus": 0,
+              "promotionName": "畅销电子书每满10减4",
+              "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+              "promotionDesc": "畅销电子书每满10减4",
+              "promotionAlias": "减",
+              "promotionPrams": {
+                "code": "2648",
+                "type": "column"
+              },
+              "promotionEndTime": 1508677200000,
+              "promotionPrice": 8.38
+            }
+          ],
+          "salePrice": 8.38,
+          "commentNumber": 12,
+          "lowestPrice": 8.38
+        },
+        {
+          "mediaId": 1900583548,
+          "audioAuthor": "",
+          "isFull": 1,
+          "isStore": 0,
+          "saleId": 1900583548,
+          "shelfStatus": 1,
+          "authorPenname": "卜劳恩",
+          "priceUnit": 960,
+          "mediaType": 2,
+          "paperBookPrice": 3200,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "creationDate": 1474455787000,
+          "title": "父与子",
+          "price": 640,
+          "originalPrice": 32,
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "coverPic": "http://img60.ddimg.cn/digital/product/35/48/1900583548_ii_cover.jpg?version=9d157384-5854-47e9-bb21-5a3e1df45c20",
+          "promotionList": [
+            {
+              "promotionType": 10000,
+              "promotionStartTime": 1505743200000,
+              "stockStatus": 0,
+              "promotionName": "畅销电子书每满10减4",
+              "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+              "promotionDesc": "畅销电子书每满10减4",
+              "promotionAlias": "减",
+              "promotionPrams": {
+                "code": "2648",
+                "type": "column"
+              },
+              "promotionEndTime": 1508677200000,
+              "promotionPrice": 6.4
+            }
+          ],
+          "salePrice": 6.4,
+          "chapterCnt": 201,
+          "commentNumber": 3,
+          "lowestPrice": 6.4
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900655597,
+          "shelfStatus": 1,
+          "priceUnit": 360,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "凤囚凰·漫画贰",
+          "categoryIds": "MHDM",
+          "channelHall": false,
+          "chapterCnt": 142,
+          "mediaId": 1900655597,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "原作天衣有风、编绘猫君子涅、脚本咕噜咪",
+          "paperBookId": 24178777,
+          "paperBookPrice": 1980,
+          "creationDate": 1488767348000,
+          "price": 199,
+          "originalPrice": 19.8,
+          "coverPic": "http://img60.ddimg.cn/digital/product/55/97/1900655597_ii_cover.jpg?version=2d265442-869f-4c3f-a3f6-f0a088c0644b",
+          "promotionList": [
+            {
+              "promotionType": 10000,
+              "promotionStartTime": 1505743200000,
+              "stockStatus": 0,
+              "promotionName": "畅销电子书每满10减4",
+              "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+              "promotionDesc": "畅销电子书每满10减4",
+              "promotionAlias": "减",
+              "promotionPrams": {
+                "code": "2648",
+                "type": "column"
+              },
+              "promotionEndTime": 1508677200000,
+              "promotionPrice": 1.99
+            }
+          ],
+          "salePrice": 1.99,
+          "commentNumber": 4,
+          "lowestPrice": 1.99
+        },
+        {
+          "isFull": 1,
+          "saleId": 1900545677,
+          "shelfStatus": 1,
+          "priceUnit": 6,
+          "mediaType": 2,
+          "avgStarLevel": 5,
+          "subTitle": "",
+          "title": "幽默，你懂的",
+          "categoryIds": "YMXHJ",
+          "channelHall": false,
+          "chapterCnt": 65,
+          "mediaId": 1900545677,
+          "audioAuthor": "",
+          "isStore": 0,
+          "authorPenname": "二溅大侠",
+          "paperBookId": 22548874,
+          "paperBookPrice": 2980,
+          "creationDate": 1461232250000,
+          "price": 699,
+          "originalPrice": 29.8,
+          "coverPic": "http://img62.ddimg.cn/digital/product/56/77/1900545677_ii_cover.jpg?version=15530ce5-6a0c-4610-b30b-9ec4570d67f2",
+          "promotionList": [
+            {
+              "promotionType": 10000,
+              "promotionStartTime": 1505743200000,
+              "stockStatus": 0,
+              "promotionName": "畅销电子书每满10减4",
+              "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+              "promotionDesc": "畅销电子书每满10减4",
+              "promotionAlias": "减",
+              "promotionPrams": {
+                "code": "2648",
+                "type": "column"
+              },
+              "promotionEndTime": 1508677200000,
+              "promotionPrice": 6.99
+            }
+          ],
+          "salePrice": 6.99,
+          "commentNumber": 2,
+          "lowestPrice": 6.99
+        }
+      ],
+      "link":"点击查看更多>>"
+    }
+   ]
+  },
+    {
+      "Bigmodule":[
+        {
+          "icon":"http://img61.ddimg.cn/vip01/xiaoshuo710-150.jpg",
+          "text":"小说"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/wenxue710-150.jpg",
+          "text":"文学"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/lizhi710-150.jpg",
+          "text":"励志"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/jingguan710-150.jpg",
+          "text":"经管"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/sheke710-150.jpg" ,
+          "text":"社科人文"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/lishi710-150.jpg" ,
+          "text":"历史古籍"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/qinzi710-150.jpg",
+          "text":"亲子家教"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/shenghuo710-150.jpg" ,
+          "text":"生活"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/keji710-150.jpg" ,
+          "text":"科技"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/jiaoyu710-150.jpg",
+          "text":"教育"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/tongshu710-150.jpg",
+          "text":"童书"
+        },
+        {
+          "icon":"http://img61.ddimg.cn/vip01/qita710-150.jpg",
+          "text":"其他"
+        }
+      ]
+    }
+  ]
+}
+

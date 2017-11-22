@@ -1,0 +1,876 @@
+{
+  "slideImage": [
+    "http://img63.ddimg.cn/ddreader/lylins/831buka.jpg",
+    "http://img63.ddimg.cn/ddreader/lylins/wangpaixiaocao.jpg",
+    "http://img61.ddimg.cn/ddreader/lylins/baoxiao750315.jpg"
+  ],
+  "content":[
+    {
+      "Bigmodule": [
+        {
+          "icon": "http://img60.ddimg.cn/upload_img/00697/66/dmchangxiao.png",
+          "name": "畅销榜单"
+        },
+        {
+          "icon": "http://img61.ddimg.cn/upload_img/00697/66/dmnew.png" ,
+          "name": "新书榜单"
+        },
+        {
+          "icon": "http://img62.ddimg.cn/upload_img/00697/66/dmwanjie.png",
+          "name": "完结动漫"
+        },
+        {
+          "icon": "http://img62.ddimg.cn/upload_img/00697/66/dmmianfei.png" ,
+          "name": "免费动漫"
+        }
+      ],
+      "Smallmodule":[
+        {
+          "name": "今日热荐",
+          "lists": [
+            {
+              "mediaId": 1960117769,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980151273,
+              "shelfStatus": 1,
+              "authorPenname": "张三三",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1469501116000,
+              "title": "贴身小女佣",
+              "price": 3136,
+              "categoryIds": "CARTOONDUSHI",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/77/69/1960117769_ii_cover.jpg?version=2ffe9a99-620e-4500-963b-3b7bec19e0d1",
+              "chapterCnt": 64,
+              "commentNumber": 45
+            },
+            {
+              "mediaId": 1960117659,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980151163,
+              "shelfStatus": 1,
+              "authorPenname": "小新",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1469501108000,
+              "title": "狐妖小红娘",
+              "price": 15288,
+              "categoryIds": "CARTOONXUANHUAN",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/76/59/1960117659_ii_cover.jpg?version=ae3f2153-1813-4cf7-a5ea-e3bb130a6c0a",
+              "chapterCnt": 312,
+              "commentNumber": 34
+            },
+            {
+              "mediaId": 1960117532,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980151036,
+              "shelfStatus": 1,
+              "authorPenname": "痞子赵",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1469435585000,
+              "title": "我为苍生",
+              "price": 9457,
+              "categoryIds": "CARTOONKONGBU",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/75/32/1960117532_ii_cover.jpg?version=4b9cc5c4-11c8-41cb-bca9-10163bee2864",
+              "chapterCnt": 193,
+              "commentNumber": 28
+            },
+            {
+              "mediaId": 1900687310,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900687310,
+              "shelfStatus": 1,
+              "authorPenname": "唐七原著 太平编绘",
+              "priceUnit": 400,
+              "mediaType": 2,
+              "paperBookPrice": 1600,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1496914999000,
+              "title": "三生三世十里桃花漫画1",
+              "price": 500,
+              "originalPrice": 16,
+              "categoryIds": "MHDM",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/73/10/1900687310_ii_cover.jpg?version=166fcdf4-89ce-44f9-b922-addd9e6c61d7",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5
+                }
+              ],
+              "salePrice": 5,
+              "chapterCnt": 12,
+              "commentNumber": 23,
+              "lowestPrice": 5
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900687311,
+              "shelfStatus": 1,
+              "priceUnit": 400,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "三生三世十里桃花漫画2",
+              "categoryIds": "MHDM",
+              "channelHall": false,
+              "chapterCnt": 14,
+              "mediaId": 1900687311,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "唐七原著 太平编绘",
+              "paperBookId": 24162840,
+              "paperBookPrice": 1600,
+              "creationDate": 1496914856000,
+              "price": 500,
+              "originalPrice": 16,
+              "coverPic": "http://img61.ddimg.cn/digital/product/73/11/1900687311_ii_cover.jpg?version=36194533-b5a1-4fb9-9b57-0af19f9a88bf",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5
+                }
+              ],
+              "salePrice": 5,
+              "commentNumber": 10,
+              "lowestPrice": 5
+            },
+            {
+              "isFull": 1,
+              "saleId": 1900687312,
+              "shelfStatus": 1,
+              "priceUnit": 400,
+              "mediaType": 2,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "title": "三生三世十里桃花漫画3",
+              "categoryIds": "MHDM",
+              "channelHall": false,
+              "chapterCnt": 17,
+              "mediaId": 1900687312,
+              "audioAuthor": "",
+              "isStore": 0,
+              "authorPenname": "唐七原著 太平编绘",
+              "paperBookId": 24240072,
+              "paperBookPrice": 1800,
+              "creationDate": 1496914607000,
+              "price": 500,
+              "originalPrice": 18,
+              "coverPic": "http://img62.ddimg.cn/digital/product/73/12/1900687312_ii_cover.jpg?version=3bb805e4-17a1-409d-a319-10ea994287b9",
+              "promotionList": [
+                {
+                  "promotionType": 10000,
+                  "promotionStartTime": 1505743200000,
+                  "stockStatus": 0,
+                  "promotionName": "畅销电子书每满10减4",
+                  "promotionPic": "http://img4.ddimg.cn/00035/pic/mej_b.png",
+                  "promotionDesc": "畅销电子书每满10减4",
+                  "promotionAlias": "减",
+                  "promotionPrams": {
+                    "code": "2648",
+                    "type": "column"
+                  },
+                  "promotionEndTime": 1508677200000,
+                  "promotionPrice": 5
+                }
+              ],
+              "salePrice": 5,
+              "commentNumber": 8,
+              "lowestPrice": 5
+            }
+          ]
+        },
+        {
+          "name": "新品榜",
+          "lists": [
+            {
+              "mediaId": 1960138946,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980172450,
+              "shelfStatus": 1,
+              "authorPenname": "章鱼",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1472117897000,
+              "title": "高陵先生",
+              "price": 0,
+              "categoryIds": "CARTOONREXUE",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/89/46/1960138946_ii_cover.jpg?version=b6ea32bf-ba36-4a0d-8cc2-a4a45532c358",
+              "chapterCnt": 83,
+              "commentNumber": 19
+            },
+            {
+              "mediaId": 1960138952,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980172456,
+              "shelfStatus": 1,
+              "authorPenname": "丸77",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1472118069000,
+              "title": "猫咪甜品屋",
+              "price": 17738,
+              "categoryIds": "CARTOONREXUE",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/89/52/1960138952_ii_cover.jpg?version=170cc94c-c1b7-464d-a7a1-bc58e1042efe",
+              "chapterCnt": 362,
+              "commentNumber": 11
+            },
+            {
+              "mediaId": 1960138869,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980172373,
+              "shelfStatus": 1,
+              "authorPenname": "父子漫画组合",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1472115669000,
+              "title": "家有萌萌哒",
+              "price": 0,
+              "categoryIds": "CARTOONREXUE",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/88/69/1960138869_ii_cover.jpg?version=7323789d-a9fe-402e-91f4-0bed46def1c4",
+              "chapterCnt": 190,
+              "commentNumber": 10
+            },
+            {
+              "mediaId": 1960138943,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980172447,
+              "shelfStatus": 1,
+              "authorPenname": "奥兹",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1472117896000,
+              "title": "墨斗线",
+              "price": 0,
+              "categoryIds": "CARTOONREXUE",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/89/43/1960138943_ii_cover.jpg?version=c571ac6b-5d0a-490d-90bb-d82942bc75c2",
+              "chapterCnt": 44,
+              "commentNumber": 5
+            },
+            {
+              "mediaId": 1960138955,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980172459,
+              "shelfStatus": 1,
+              "authorPenname": "虫工人",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1472118125000,
+              "title": "太平镇",
+              "price": 0,
+              "categoryIds": "CARTOONREXUE",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/89/55/1960138955_ii_cover.jpg?version=908e2bd6-3a9e-4b29-ae83-adf38e1625e4",
+              "chapterCnt": 29,
+              "commentNumber": 8
+            },
+            {
+              "mediaId": 1960180868,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980214372,
+              "shelfStatus": 1,
+              "authorPenname": "爱人皇帝",
+              "priceUnit": 49,
+              "mediaType": 4,
+              "avgStarLevel": 5,
+              "creationDate": 1497598865000,
+              "title": "恶魔日记",
+              "price": 10633,
+              "categoryIds": "CARTOONREXUE",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/8/68/1960180868_ii_cover.jpg?version=45f99915-b1f4-4d0b-9375-da28d0e1cdbd",
+              "chapterCnt": 217,
+              "commentNumber": 7
+            }
+          ],
+          "link":"查看TOP100新品榜单"
+        },
+        {
+          "name": "原版漫画",
+          "lists": [
+            {
+              "mediaId": 1900693673,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900693673,
+              "shelfStatus": 1,
+              "authorPenname": "Kinney, Jeff",
+              "priceUnit": 5419,
+              "mediaType": 2,
+              "paperBookPrice": 15500,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1498551759000,
+              "title": "Diary of a Wimpy Kid",
+              "price": 10839,
+              "originalPrice": 155,
+              "categoryIds": "FIC",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/36/73/1900693673_ii_cover.jpg?version=1eff80c5-dac6-4b92-826b-353129b7efec",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 108.39
+                }
+              ],
+              "salePrice": 108.39,
+              "chapterCnt": 4,
+              "commentNumber": 7,
+              "lowestPrice": 108.39
+            },
+            {
+              "mediaId": 1900693674,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900693674,
+              "shelfStatus": 1,
+              "authorPenname": "Kinney, Jeff",
+              "priceUnit": 121,
+              "mediaType": 2,
+              "paperBookPrice": 15500,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1498550982000,
+              "title": "Diary of a Wimpy Kid:Cabin Fever",
+              "price": 10839,
+              "originalPrice": 155,
+              "categoryIds": "FIC",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/36/74/1900693674_ii_cover.jpg?version=7c8b5ff5-9f24-481a-9e68-659bf0ff2654",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 108.39
+                }
+              ],
+              "salePrice": 108.39,
+              "chapterCnt": 8,
+              "commentNumber": 4,
+              "lowestPrice": 108.39
+            },
+            {
+              "mediaId": 1900693675,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900693675,
+              "shelfStatus": 1,
+              "authorPenname": "Kinney, Jeff",
+              "priceUnit": 129,
+              "mediaType": 2,
+              "paperBookPrice": 15500,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1498550876000,
+              "title": "Diary of a Wimpy Kid: Dog Days",
+              "price": 10839,
+              "originalPrice": 155,
+              "categoryIds": "FIC",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/36/75/1900693675_ii_cover.jpg?version=1cabc115-410b-4ecc-832d-bcf1da525a6e",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 108.39
+                }
+              ],
+              "salePrice": 108.39,
+              "chapterCnt": 1,
+              "commentNumber": 5,
+              "lowestPrice": 108.39
+            },
+            {
+              "mediaId": 1900693676,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900693676,
+              "shelfStatus": 1,
+              "authorPenname": "Kinney, Jeff",
+              "priceUnit": 144,
+              "mediaType": 2,
+              "paperBookPrice": 15500,
+              "avgStarLevel": 3,
+              "subTitle": "",
+              "creationDate": 1498551001000,
+              "title": "Diary of a Wimpy Kid: Hard Luck",
+              "price": 10839,
+              "originalPrice": 155,
+              "categoryIds": "FIC",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/36/76/1900693676_ii_cover.jpg?version=18c46abe-84e3-4515-91da-bc0406a3a513",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 108.39
+                }
+              ],
+              "salePrice": 108.39,
+              "chapterCnt": 1,
+              "commentNumber": 2,
+              "lowestPrice": 108.39
+            },
+            {
+              "mediaId": 1900693677,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900693677,
+              "shelfStatus": 1,
+              "authorPenname": "Kinney, Jeff",
+              "priceUnit": 138,
+              "mediaType": 2,
+              "paperBookPrice": 15500,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1498550912000,
+              "title": "Diary of a Wimpy Kid: Old School",
+              "price": 10839,
+              "originalPrice": 155,
+              "categoryIds": "FIC",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/36/77/1900693677_ii_cover.jpg?version=8c1a7f0e-7ed4-4609-8207-97a197cc3c3d",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 108.39
+                }
+              ],
+              "salePrice": 108.39,
+              "chapterCnt": 2,
+              "commentNumber": 5,
+              "lowestPrice": 108.39
+            },
+            {
+              "mediaId": 1900693678,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1900693678,
+              "shelfStatus": 1,
+              "authorPenname": "Kinney, Jeff",
+              "priceUnit": 123,
+              "mediaType": 2,
+              "paperBookPrice": 15500,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1498550911000,
+              "title": "Diary of a Wimpy Kid: Rodrick Rules",
+              "price": 10839,
+              "originalPrice": 155,
+              "categoryIds": "FIC",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/36/78/1900693678_ii_cover.jpg?version=6e8fa242-511f-4ffd-9948-2a13c7925351",
+              "promotionList": [
+                {
+                  "stockStatus": 0,
+                  "promotionPrice": 108.39
+                }
+              ],
+              "salePrice": 108.39,
+              "chapterCnt": 10,
+              "commentNumber": 1,
+              "lowestPrice": 108.39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Smallmodule":[
+        {
+          "title":"玄幻动漫",
+          "img":"http://img63.ddimg.cn/ddreader/gyb/zhongbang.jpg",
+          "content":[
+            {
+             "left":{"img":"http://img62.ddimg.cn/digital/product/76/44/1960117644_cc_cover.jpg?version=f1a93d55-f5d3-427b-a264-1ed603c47b1a"},
+             "right":{
+               "name":"黑皇圣冠",
+               "dec":"帝炽",
+               "ico":"独闯异世界的少年禹欣结识了充满谜团的少女爱尔，在一系列意外的冒险、调教甚至无节操中，少女的真相渐渐显现……"
+             }
+          },
+            {
+             "left":{"img":"http://img61.ddimg.cn/digital/product/73/79/1960117379_cc_cover.jpg?version=260262cb-26c1-4d85-8f9a-94e7298398a6"},
+             "right":{
+               "name":"罗刹大人请留步",
+               "dec":"叮咚酱",
+               "ico":"三界动荡！魑魅魍魉开始涌入人间！只为一少年王旭尧！一个天生拥有吸引妹子体质的少年！且看他如何在各路妹子中保住自己的贞操！每周三，周六更新！求月票，求打赏！读者群476815904"
+             }
+          },
+            {
+             "left":{"img":"http://img61.ddimg.cn/digital/product/74/64/1960117464_cc_cover.jpg?version=9805b789-18ab-4b5a-afb4-e2e21bf74282"},
+             "right":{
+               "name":"精灵囚笼",
+               "dec":"深色奇",
+               "ico":"反乌托邦题材奇幻故事。未来世界，精灵统治着人类。男主越旸与精灵菲丽艾的相遇，将逐渐揭开周遭隐秘的真相和黑暗……"
+             }
+          },
+            {
+             "left":{"img":"http://img61.ddimg.cn/digital/product/75/69/1960117569_cc_cover.jpg?version=cccd655f-429e-4f9d-a780-2ad8fbf12197"},
+             "right":{
+               "name":"演平乱志",
+               "dec":"丛潇动漫文化",
+               "ico":"人类联合僵尸一起抵抗打退了异种侵略，僵尸却趁机成了统治者!在吃货诗人演平和同伴的努力下，能否夺回统治权？他们又会发现背后有怎样的阴谋？！"
+             }
+          },
+            {
+             "left":{"img":"http://img60.ddimg.cn/digital/product/76/47/1960117647_cc_cover.jpg?version=16061d19-c2a8-4d38-82aa-1d35af237489"},
+             "right":{
+               "name":"超游世界",
+               "dec":"龙轩动漫",
+               "ico":"热血的高中少年，神秘的刀锋女剑士，反复无常的腹黑女，无法区分现实与游戏的世界！什么样的阴谋在等待他们，尽在超游世界！"
+             }
+          },
+            {
+             "left":{"img":"http://img62.ddimg.cn/digital/product/76/75/1960117675_cc_cover.jpg?version=54b2f6cd-f596-4212-af29-786444950350"},
+             "right":{
+               "name":"幻界王（幻兽王）",
+               "dec":"绘漫",
+               "ico":"幻兽大陆，在这块人类仅存的大陆上，不同的兽魂决定不同的命运，看平凡的小子如何成为幻兽王"
+             }
+          }
+         ],
+          "link":"查看玄幻动漫TOP100>"
+        },
+        {
+          "title":"恐怖动漫",
+          "img":"http://img62.ddimg.cn/ddreader/gyb/kongbu.jpg",
+          "content":[
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/76/49/1960117649_cc_cover.jpg?version=d6099e09-2f76-42fb-8d04-74590711248f"},
+              "right":{
+                "name":"催眠师",
+                "dec":"奋斗的蚊子",
+                "ico":"不管你信与不信，这都是真实的故事。未成年不要看催眠师."
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/77/22/1960117722_cc_cover.jpg?version=32a1a205-38dc-4d9f-859a-23ad2475a802" },
+              "right":{
+                "name":"僵尸骑士",
+                "dec":"一手动漫",
+                "ico":"圣骑士是骑士国抵御不死族的中坚力量，年轻的圣骑士盖尔在一次任务中受到感染成为僵尸。为了讨回失去的东西，僵尸盖尔踏上了冒险的旅程。"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/76/73/1960117673_cc_cover.jpg?version=faf2dca7-82ee-41d0-8886-0e6fd86868f9"},
+              "right":{
+                "name":"猎灵神医（地狱神医）",
+                "dec":"鹿漫文化",
+                "ico":"怪病与诅咒笼罩下的荒芜村落、阴冷诡异的医院、深山洞窟中的神秘石棺、血肉腐朽的千年古尸、回忆那段黑色的青春、祭奠那段奇异的经历、复杂交织却又难以割舍的感情。欢迎加读者群247206997九色鹿QQ：37018157文作者：sky威天下QQ：332610559"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/74/93/1960117493_cc_cover.jpg?version=bfc94821-be56-4d9b-8b71-6dde20c50b74"},
+              "right":{
+                "name":"血色苍穹",
+                "dec":"北巷",
+                "ico":"只因为手贱扫描了一个以为是商家促销的二维码，正准备赶去与女朋友约会的李鸣洋被带到一个莫名其妙的地方…QQ群：188765134"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/73/91/1960117391_cc_cover.jpg?version=6f4fa142-ae5c-4920-b758-4aee5671d264"},
+              "right":{
+                "name":"陈官快递",
+                "dec":"大行道动漫",
+                "ico":"【作者疯了！一周三更，求月票！求支持！】暴风雨之夜，邮车内传出婴儿的啼哭声，邮递员发现自己运送的竟然是一只贴满符咒的古棺！20多年后，陈官生回家奔丧，在养父开办的陈官快递中见到了神秘莫测的职员阮逸。诡谲灵异的快递委托、骇人听闻的身世之谜、阴魂不散的女尸生母……陈官生的命运陷入了一片迷雾之中。"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/76/66/1960117666_cc_cover.jpg?version=17732888-25f4-4138-bf57-eb19ef300dcc"},
+              "right":{
+                "name":"花悸",
+                "dec":"大行道动漫",
+                "ico":"【作者疯了！一周三更，求月票！求支持！】郑问所在的城市最近发生了一件离奇的死亡案件，死者身体从内往外被藤蔓缠绕，死状可怖。郑问班上的两个女生卷入了此事。女学生突发性死亡且死状甚异！！诡异的事件开始在城市里蔓延Q群155612369"
+              }
+            }
+          ],
+          "link":"查看恐怖动漫TOP100>"
+        },
+        {
+          "title":"热血动漫",
+          "img":"http://img63.ddimg.cn/ddreader/gyb/jisheng.jpg" ,
+          "content":[
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/89/46/1960138946_cc_cover.jpg?version=b6ea32bf-ba36-4a0d-8cc2-a4a45532c358"},
+              "right":{
+                "name":"高陵先生",
+                "dec":"章鱼",
+                "ico":"在繁华的现代城市x，总有一些不明的奇异事件发生，这些事件有时会夺取生物的性命有时会造就奇特的物品又或许会产生未知的现象，而有一类人他们遭遇这类奇异事件的几率远远高于普通人，故事就从这些人的身边开始。"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/89/52/1960138952_cc_cover.jpg?version=170cc94c-c1b7-464d-a7a1-bc58e1042efe"},
+              "right":{
+                "name":"猫咪甜品屋",
+                "dec":"丸77",
+                "ico":"甜品店每天络绎不绝的人来人往，他们都有什么故事呢？他们和猫之间又有什么故事呢？"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/88/69/1960138869_cc_cover.jpg?version=7323789d-a9fe-402e-91f4-0bed46def1c4"},
+              "right":{
+                "name":"家有萌萌哒",
+                "dec":"父子漫画组合",
+                "ico":"某天，凌然以错误的方式打开车后备箱，发现了美丽可爱的不速之客。随着她的闯入，一场要了亲命的奇妙冒险就此展开！幽灵怪兽外星人，法术异能大乱斗！我们走在超神的路上！"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/89/43/1960138943_cc_cover.jpg?version=c571ac6b-5d0a-490d-90bb-d82942bc75c2"},
+              "right":{
+                "name":"墨斗线",
+                "dec":"奥兹",
+                "ico":"临安知县魏广陵一日救出一来历不明的少女，由此引发的一系列故事……"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/89/55/1960138955_cc_cover.jpg?version=908e2bd6-3a9e-4b29-ae83-adf38e1625e4"},
+              "right":{
+                "name":"太平镇",
+                "dec":"虫工人",
+                "ico":"一切皆开始于太平镇，一切将平静于太平…镇…"
+              }
+            },
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/8/68/1960180868_cc_cover.jpg?version=45f99915-b1f4-4d0b-9375-da28d0e1cdbd"},
+              "right":{
+                "name":"恶魔日记",
+                "dec":"爱人皇帝",
+                "ico":"为了完成宇宙意志的任务，神每天都认真的工作着。固定周二四六更新~喜欢这部作品的读者点一下订阅吧！万分感谢！！这是漫画粉丝QQ群：吕蒲的后宫团：486966561"
+              }
+            }
+          ],
+          "link":"查看热血动漫TOP100>"
+        },
+        {
+          "title":"搞笑动漫",
+          "content":[
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/76/16/1960117616_cc_cover.jpg?version=524c9af6-35fd-4fa8-b0fe-05a72be7fb5b"},
+              "right":{
+                "name":"不死者",
+                "dec":"樱前线动漫",
+                "ico":"大学生陆一鸣在跟网友见面的前一晚，遭遇了重大车祸....被车上下来的两名黑衣人喂下了神秘药丸，获得了不死的能力，生活发生了天翻地覆的变化..."
+              }
+            },
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/77/9/1960117709_cc_cover.jpg?version=2bb111bd-cf63-4434-b8d8-7da50017435c" },
+              "right":{
+                "name":"木兰无长兄",
+                "dec":"夏天岛",
+                "ico":"英雄难做，退休英雄不好当！28岁法医姐姐穿成解甲归田的花木兰，贺穆兰表示战斗的人生才刚刚开始！"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/75/30/1960117530_cc_cover.jpg?version=501d88fb-1d42-48fc-acd9-ab597efefb73" },
+              "right":{
+                "name":"勇者约吗",
+                "dec":"牛腩粉",
+                "ico":"梦想做勇者救公主的男主希德一觉睡到异世界，但是穿到了大魔王身上，这要怎么继续?_?救世还是逃避？英雄抑或魔王？看屌丝少年如何玩转异界！"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/73/90/1960117390_cc_cover.jpg?version=c7cbc3b8-cab5-47de-8d84-beff5f70fcac"},
+              "right":{
+                "name":"万网驱魔人",
+                "dec":"风人动漫",
+                "ico":"你相信妖怪吗?你渴望见到鬼神吗?来自远古的传说在网络世界中纷纷复活,身穿道袍的黑客对着巫师们施以铁拳,桃木剑与网络病毒的碰撞充斥整个互联网!这不是游戏，这是一个关于鬼神与魔法的正经科幻故事！"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/74/3/1960117403_cc_cover.jpg?version=c9b88cdb-0c6d-4779-b585-b7fbb3c54ae0"},
+              "right":{
+                "name":"女神进行时",
+                "dec":"布布星球",
+                "ico":"天才男主身边天降女神？！企鹅娘催稿记！每周二、周五双更啦～"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/74/13/1960117413_cc_cover.jpg?version=2f08a67c-4d03-4999-9e50-bc85708bec0a"},
+              "right":{
+                "name":"潘神记",
+                "dec":"骚客工作室",
+                "ico":"屌丝潘学艺穿越到了创世之地伊甸园星球，这里生活着宇宙诞生至今所有存在过的外星种族，弱小的潘学艺该如何在这残酷的大逃杀世界生存下去，他能否找到通往地球的回乡路！"
+              }
+            }
+          ],
+          "link":"查看搞笑动漫TOP100>"
+        },
+        {
+          "title":"都市言情",
+          "img":"http://img63.ddimg.cn/ddreader/gyb/dushi.jpg",
+          "content":[
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/77/49/1960117749_cc_cover.jpg?version=6b5a015d-c969-48aa-a81f-002a7682bd0b"},
+              "right":{
+                "name":"今天开始做女神",
+                "dec":"隔壁的特特罗",
+                "ico":"一枚老实巴交的大二男生，竟被人活生生变做了36D的金发美女？到底是谁下的毒手？还会有更倒霉的事情在等着他/她吗？一切尽在本期走进科学！4群群号334546964"
+              }
+            },
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/76/33/1960117633_cc_cover.jpg?version=3dbc804e-7fcb-4897-8c70-af025a80a6f3"},
+              "right":{
+                "name":"超化EX",
+                "dec":"花蚀",
+                "ico":"一个16岁的高中生，不幸卷入了公主的刺杀事件，被误认为是黑血人的同党，走上了被通缉的生活，等待他的究竟是怎样的世间冷暖呢"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/75/98/1960117598_cc_cover.jpg?version=49f638a9-7ed4-495e-a92f-dbb33aabbcd3"},
+              "right":{
+                "name":"最强邪少",
+                "dec":"由由",
+                "ico":"这么帅的家伙竟然是个牛郎？为毛他的气质像一个翩翩佳公子呢？慕容皓，既然是你惹到我占我便宜，那就休怪本小姐不客气了！你，逃不掉了！那个傻乎乎的丫头撞到我，而且还吐的我稀里哗啦！什么？她竟然是B市第一首富的掌上明珠，素有“辣手拔草”之称的魔女夏雪薇！MYGOD!QQ群325607225"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/77/38/1960117738_cc_cover.jpg?version=2c0104d8-4a9d-44b6-a64d-79b78292e633"},
+              "right":{
+                "name":"通职者",
+                "dec":"深圳518动漫久久店长",
+                "ico":"所谓通职者，就是什么职业都可以插一脚的人……屌丝张大宝就是一名职业通职者……然而眼下他的生活状况并不景气，这时候一位被变态骚扰的“美女”主动向他委托求助，此屌丝就此展开了一段麻辣的委托任务……腾讯动漫APP提前1天更新"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/75/30/1960117530_cc_cover.jpg?version=501d88fb-1d42-48fc-acd9-ab597efefb73"},
+              "right":{
+                "name":"勇者约吗",
+                "dec":"牛腩粉",
+                "ico":"梦想做勇者救公主的男主希德一觉睡到异世界，但是穿到了大魔王身上，这要怎么继续?_?救世还是逃避？英雄抑或魔王？看屌丝少年如何玩转异界！"
+              }
+            },
+            {
+              "left":{"img":"http://img61.ddimg.cn/digital/product/73/70/1960117370_cc_cover.jpg?version=b67a1a76-0140-42c4-91c4-7b7e3a87c419"},
+              "right":{
+                "name":"2B青年求爱记",
+                "dec":"柯小漫画社",
+                "ico":"本故事讲述一个性格猥琐，长相寒蝉的2B青年，为了追求自己的爱情，屡遭拒绝，却越挫越勇的搞笑励志故事"
+              }
+            }
+          ],
+          "link":"查看都市言情TOP100>"
+        },
+        {
+          "title":"科幻动漫",
+          "img":"http://img61.ddimg.cn/ddreader/gyb/rexue.jpg" ,
+          "content":[
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/76/25/1960117625_cc_cover.jpg?version=29164444-023b-4891-955b-c418b9d6e12b" },
+              "right":{
+                "name":"隔离带",
+                "dec":"画狸",
+                "ico":"二战德国秘密研制的HCDV病毒在70年后重新被人们发现，但也是灾难的开端。"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/73/80/1960117380_cc_cover.jpg?version=7e8e34d4-1802-49fe-9314-ba0b45c173a6"},
+              "right":{
+                "name":"拓星者",
+                "dec":"大行道动漫",
+                "ico":"【作者疯了！一周三更，求月票！求支持！】从沉睡中醒来的赵小国，发现自己在一个莫名的地方，且陆续有更多人醒来，强制性的被安排探索新星球的任务，不服从就要死！死而复生的梦中女孩，神秘强大的外星生物，等待着赵小国的是未知而危险的未来Q群：157083910"
+              }
+            },
+            {
+              "left":{"img":"http://img60.ddimg.cn/digital/product/76/80/1960117680_cc_cover.jpg?version=1b309773-d130-4a74-9163-8a230e23e04d"},
+              "right":{
+                "name":"末世人间道",
+                "dec":"曹芮搏",
+                "ico":"人类被一股强大的力量推向了毁灭之路。在这个末世审判庭上，人性的光辉能否再次闪耀，还是那如附骨之蛆般的丑恶灵魂会送人类走上最后一程。向大家推荐美剧《行尸走肉》的原声音乐，把音乐放小声，同步看我的漫画别有一番趣味啊，我画的时候听就挺有感觉。"
+              }
+            },
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/74/81/1960117481_cc_cover.jpg?version=3256fca5-db5c-4eb4-8394-f824405cd1a1"},
+              "right":{
+                "name":"复仇者联盟：终极英雄",
+                "dec":"弓玄",
+                "ico":"复仇者联盟：终极英雄看英雄们的Q版搞笑日常"
+              }
+            },
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/74/80/1960117480_cc_cover.jpg?version=f7226323-15a4-41d5-b34c-548851f6f85f"},
+              "right":{
+                "name":"该人无法显示",
+                "dec":"木于",
+                "ico":"公元2125年7月9日，全球核武器相继失控，强烈的核爆席卷全球，幸存人类开始向经营多年的九卫人造空间站逃亡……35年过去，出生在空间站的新人类开始站上历史的舞台，而此时，尸体爆弹袭击让人类再次闻到了阴谋的味道……  Xman原创漫画工作室全新科幻悬疑大作……  官方粉丝群：77899272"
+              }
+            },
+            {
+              "left":{"img":"http://img62.ddimg.cn/digital/product/76/9/1960117609_cc_cover.jpg?version=bf659ab5-9572-41ce-b621-ea60f5b3c0c9"},
+              "right":{
+                "name":"雇佣兵也疯狂第一季",
+                "dec":"林生星",
+                "ico":"激斗！正义与邪恶的碰撞，保卫者与潜伏者的战斗... （其实就是一群二货的游戏人生啦！这我会说？） 激萌CF漫画每周三等你来看！"
+              }
+            }
+          ],
+          "link":"查看科幻动漫TOP100>>"
+        }
+      ]
+    }
+  ]
+}
+

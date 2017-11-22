@@ -1,0 +1,1369 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <title></title>
+    <link rel="stylesheet" href="icon.css"/>
+    <style>
+        *
+        {
+            margin: 0;
+            padding: 0;
+        }
+        ul
+        {
+          list-style: none;
+        }
+        .bigbox
+        {
+            width: 100%;
+            /*position: relative;*/
+        }
+        .header
+        {
+            width: 100%;
+            height: 174px;
+            position: absolute;
+        }
+        .header-main
+        {
+            width: 100%;
+            display: flex;  
+            background:rgba(7,17,27,0.5)
+        }
+        .header-main .header-icon
+        {
+            flex: 0 0 64px;
+            margin:24px 16px 18px 24px;
+        }
+        .header-content
+        {
+            flex: 1 1 auto;
+        }
+        .header-content .shopname .brand
+        {
+
+            display: inline-block;
+            width: 36px;
+            height: 20px;
+            margin-right: 6px;
+            vertical-align: bottom;
+            background-size: 36px 20px;
+            background-repeat: no-repeat;
+            margin-top: 24px;
+            margin-right: 6px;
+            margin-bottom: 8px;
+            background-image:url("img/brand@3x.png");
+        }
+        
+        .header-content .shopname h1
+        {
+            display: inline-block;
+            font-size: 16px;
+            color: rgb(255,255,255);
+            font-weight: bold;
+            line-height: 20px;
+            margin-bottom: 8px;
+
+        }
+        .header-content  .deliver
+        {
+            font-size: 12px;
+            color: rgb(255,255,255);
+            font-weight: 200;
+            line-height: 12px;
+            margin-bottom: 10px;
+        }
+        .header-content  .decrease
+        {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            margin-right: 4px;
+            vertical-align: bottom;
+            background-size:12px 12px;
+            background-repeat: no-repeat;
+            margin-bottom: 18px;
+            background-image:url("img/decrease_1@3x.png");
+        }
+        .activit
+        {
+            position: relative;
+        }
+        .header-content .pay
+        {
+            display: inline-block;
+            font-size: 10px;
+            color: rgb(255,255,255);
+            font-weight: 200;
+            line-height: 12px;
+            margin-bottom: 18px;
+        }
+        .number
+        {
+            position:absolute;
+            height: 12px;
+            width: 36px;
+            border: 1px solid #4D5055;
+            background: #4D5055;
+            font-size: 10px;
+            color: rgb(255,255,255);
+            font-weight: 200;
+            line-height: 12px;
+            text-align: center;
+            padding: 5px;
+            right: 12px;
+            border-radius: 30%;
+        }
+        .header-footer
+        {
+            height: 28px;
+            width: 100%;
+            position: absolute;
+            background: #4E545A;
+            box-sizing: border-box;
+            bottom: 40px;
+        }
+        .header-footer-container
+        {
+            width: 100%;
+            height: 100%;
+            position: relative;
+        }
+        .bulletin
+        {
+            left: 12px;
+            display: inline-block;
+            width: 20px;
+            height: 12px;
+            bottom: 8px;
+            vertical-align: bottom;
+            background-size:20px 12px;
+            background-repeat: no-repeat;
+            background-image:url("img/bulletin@3x.png");
+            position: absolute;
+        }
+        .jieshao
+        {
+
+            display: inline-block;
+            font-size: 10px;
+            color: rgb(255,255,255);
+            font-weight: 200;
+            line-height: 28px;
+            left: 36px;
+            position: absolute;
+            /*bottom: 8px;*/
+
+        }
+        .header-foods
+        {
+            width: 100%;
+            height: 40px;
+            background:   rgb(255,255,255);
+            position: absolute;
+            bottom: 0;
+        }
+        .header-foods table
+        {
+            height: 100%;
+            width: 100%;
+        }
+        .header-foods table td
+        {
+            text-align: center;
+        }
+        .container
+        {
+            width: 100%;
+            position: absolute;
+            top:174px;
+            display: flex;
+            bottom: 58px;
+            /*overflow: scroll;*/
+        }
+        .menu
+        {
+            left: 0;
+            top: 0;
+            width: 80px;
+            overflow: auto;
+            flex: 0 0 80px;
+            /*生成绝对定位的元素*/
+            /*position: absolute;*/
+        }
+        .menu-item
+        {
+            display:table;
+            height:54px;
+            width: 56px;
+            padding: 0 12px;
+            line-height: 14px;
+            /*vertical-align: middle; 无效*/
+
+        }
+        .menu-item .text
+        {
+            display: table-cell;
+            width: 56px;
+            font-size: 12px;
+            vertical-align: middle;
+            border-bottom:1px solid rgba(7, 17, 27, 0.1);
+        }
+        .active
+        {
+            color:red
+        }
+        .menu-item .icon
+        {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            margin-right: 2px;
+            vertical-align: bottom;
+            background-size: 12px 12px;
+            background-repeat: no-repeat;
+        }
+         .decrease
+        {
+            background-image: url("img/decrease_3@2x.png");
+        }
+        .menu-item .discount
+        {
+            background-image: url("img/discount_3@2x.png");
+        }
+        .menu-item .guarantee
+        {
+            background-image: url("img/guarantee_3@2x.png");
+        }
+        .menu-item .invoice
+        {
+            background-image: url("img/invoice_3@2x.png");
+        }
+        .menu-item .special
+        {
+            background-image: url("img/special_3@2x.png");
+        }
+        .goods
+        {
+            /*position: fixed;*/
+            flex: 1 1 auto;
+            top: 0;
+            right: 0;
+            left: 80px;
+            margin-bottom: 0px;
+            overflow:scroll;
+
+
+        }
+        .goods .title
+        {
+            height: 26px;
+            line-height: 26px;
+            border-left: 2px solid #d9dde1;
+            font-size: 12px;
+            color: rgb(147, 153, 159);
+            background: #f3f5f7;
+            padding-left: 14px;
+        }
+        .goods .food-item
+        {
+            position: relative;
+            display: flex;
+            margin: 18px;
+            padding-bottom:30px;
+            border-bottom: 1px solid rgba(7, 17, 27, 0.1);
+        }
+        .goods .food-item:last-child
+        {
+            margin-bottom: 0;
+            border-bottom:none;
+        }
+        .goods .icon
+        {
+            flex: 0 0 57px;
+            margin: 10px;
+        }
+        /*flex： 0 1 auto*/
+        /*参数一：（空间足够大）是否允许放大 参数二（空间不够）是否允许缩小 参数三初始大小*/
+        .goods .content .name
+        {
+            /*上 左右 下*/
+            margin: 2px 0 8px;
+            height: 10px;
+            line-height: 14px;
+            font-size: 14px;
+            color: rgb(7, 17, 27);
+        }
+        .goods .desc
+        {
+            margin-bottom: 8px;
+        }
+        .goods .extra .sell-count
+        {
+            margin-right: 12px;
+        }
+        .goods .price
+        {
+            font-weight: 700;
+            line-height: 24px;
+        }
+        .price .now
+        {
+            margin-right: 8px;
+            font-size: 14px;
+            color: rgb(240, 20, 20);
+        }
+        .price .old
+        {
+            text-decoration: line-through;
+            font-size: 10px;
+            color: rgb(147, 153, 159);
+        }
+        .content .btn-wrapper
+        {
+            right: 0;
+            bottom: 18px;
+            position: absolute;
+        }
+        .btn-wrapper .btn-control
+        {
+            font-size: 0;
+        }
+        .btn-control .cart-add, .cart-decrease
+        {
+            display: inline-block;
+            padding: 6px;
+            line-height: 24px;
+            font-size: 24px;
+            color: rgb(0, 160, 220);
+        }
+        .btn-control .cart-count
+        {
+            display: inline-block;
+            padding-top: 6px;
+            vertical-align: top;
+            text-align: center;
+            font-size: 10px;
+            line-height: 24px;
+            color: rgb(147, 153, 159);
+        }
+        .footer
+        {
+            height: 48px;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            position: absolute;
+        }
+        .footer .footer-content{
+            display: flex;
+            background:#141d27;
+            height: 100%;
+            /*font-size: 0;*/
+        }
+        .footer-content .content-left
+        {
+            flex: 1;
+        }
+        .content-left .logo-warpper,.price,.desc
+        {
+            display: inline-block;
+        }
+        .content-left .logo-warpper
+        {
+            position: relative;
+            top: -10px;
+            margin: 0 6px;
+            padding: 6px;
+            width: 56px;
+            height: 56px;
+            box-sizing: border-box;
+            border-radius: 50%;
+            vertical-align: top;
+            background:#141d27;
+        }
+        .logo-warpper .logo
+        {
+            width: 100%;
+            height: 100%;
+            line-height: 44px;
+            border-radius: 50%;
+            text-align: center;
+            font-size: 24px;
+            color: rgba(255,255,255,0.4) ;
+            background: #2C353D;
+        }
+        .logo-warpper .highlight{
+            background: rgb(0,160,220);
+            color: #fff;
+        }
+        .logo-warpper .num {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 24px;
+            height: 16px;
+            line-height: 16px;
+            text-align: center;
+            border-radius: 12px;
+            font-size: 9px;
+            color: #fff;
+            background: rgb(240, 20, 20);
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+        }
+        .content-left .price
+        {
+            margin: 12px 0;
+            padding-right: 12px;
+            line-height: 24px;
+            border-right: 1px solid rgba(255,255,255,0.1);
+            font-size: 16px;
+            font-weight: 700;
+            color: rgba(255,255,255,0.4);
+        }
+        .content-left .price.highlight{
+            color: #fff;
+        }
+        .footer-content .content-left .desc{
+            margin: 12px 0;
+            padding-left: 12px;
+            font-size: 10px;
+            line-height: 24px;
+            color: rgba(255,255,255,0.4);
+        }
+        .footer-content .content-right{
+            flex:  0 0 105px;
+            width: 105px;
+            height: 100%;
+            background: #2C343C;
+        }
+        .content-right .pay
+        {
+            padding: 0 8px;
+            height: 48px;
+            line-height:48px;
+            font-size: 14px;
+            font-weight: 700;
+            text-align: center;
+            color: rgba(255,255,255,0.4) ;
+        }
+        .content-right .pay.enough{
+            background: #55DA6C;
+            color: #fff;
+        }
+        .footer .shopcart-list
+        {
+            left: 0;
+            position: absolute;
+            bottom: 58px;
+            width: 100%;
+        }
+        .shopcart-list .list-header
+        {
+            padding: 0 18px;
+            height: 40px;
+            line-height: 40px;
+            background: #f3f5f7;
+            border-bottom: 2px solid rgba(7,17,27,0.1);
+        }
+        .list-header .title{
+            float: left;
+            font-size: 14px;
+            font-weight: 200;
+            color: rgb(7,17,27);
+        }
+        .list-header .empty{
+            float: right;
+            font-size: 12px;
+            color: rgb(0,160,220);
+        }
+        .shopcart-list .list-content{
+            width: 100%;
+            max-height: 207px;
+            background: #fff;
+            overflow: auto;
+        }
+        .list-content .food{
+            position: relative;
+            margin: 0 18px;
+            padding: 12px 0;
+            box-sizing: border-box;
+            border-bottom: 1px solid rgba(7,17,27,0.1);
+        }
+        .list-content .food .name{
+            font-size: 14px;
+            line-height: 24px;
+            color: rgb(7,17,27);
+        }
+        .list-content .food .price{
+            position: absolute;
+            right: 90px;
+            bottom: 12px;
+            line-height: 24px;
+            font-size: 14px;
+            font-weight: 700;
+            color: rgb(240,20,20);
+        }
+        .list-content .btn-wrapper{
+            position: absolute;
+            right: 0;
+            bottom: 6px;
+        }
+
+    </style>
+    <script src='server.js'></script>
+    <script>
+        window.onload=function() {
+            var data = getDataFromServer();
+            //存放优惠图标类名的数组
+            var classMap = ['decrease', 'discount', 'special', 'invoice', 'guarantee']
+            var container = document.getElementsByClassName('container')[0]
+            var menu = container.getElementsByClassName('menu')[0]
+            var goodsDiv = container.getElementsByClassName('goods')[0]
+
+            //标记购物列表是否展示
+            var isShow = false
+            //获取数据
+            var goods = data.goods
+            //购物车商品数组
+            var shopCartFoods = []
+            //初始化购物车
+            var shopCartEl = initShopCart();
+            //初始化头部组件
+            createHeaderItem();
+            //创建菜单栏
+            createMenuItem();
+            //创建食品栏
+            createFoodList();
+
+            //初始化头部组件
+            function createHeaderItem()
+            {
+                var headerMain=document.getElementsByClassName('header-main')[0]
+                //创建header-main下的header-icon
+                var headerIcon=document.createElement('div')
+                headerIcon.className='header-icon'
+                headerMain.appendChild(headerIcon)
+                //创建header-icon下的img
+                var img=document.createElement('img')
+                img.width = 64
+                img.height = 64
+                img.src = data.seller.avatar
+                headerIcon.appendChild(img)
+
+                //创建header-main下的header-content
+                var headerContent=document.createElement('div')
+                headerContent.className='header-content'
+                headerMain.appendChild(headerContent)
+                //创建header-content下的shopname
+                var shopName=document.createElement('div')
+                shopName.className='shopname'
+                headerContent.appendChild(shopName)
+                //创建shopname下的brand
+                var brand=document.createElement('span')
+                brand.className='brand'
+                shopName.appendChild(brand)
+                //创建shopname下的brand
+                var h1=document.createElement('h1')
+                h1.className='h1'
+                h1.innerHTML=data.seller.name
+                shopName.appendChild(h1)
+                //创建header-content下的deliver
+                var deliver=document.createElement('p')
+                deliver.className='deliver'
+                deliver.innerHTML=data.seller.description+"/"+data.seller.deliveryTime+"分钟送达"
+                headerContent.appendChild(deliver)
+                //创建header-content下的activit
+                var activit=document.createElement('div')
+                activit.className='activit'
+                headerContent.appendChild(activit)
+                //创建activit下的decrease
+                var decrease=document.createElement('span')
+                decrease.className='decrease'
+                activit.appendChild(decrease)
+                //创建activit下的decrease
+                var pay=document.createElement('span')
+                pay.className='pay'
+                pay.innerHTML=data.seller.supports[0].description
+                activit.appendChild(pay)
+                //创建activit下的number
+                var number=document.createElement('span')
+                number.className='number'
+                number.innerHTML=data.seller.supports.length+"个>"
+                activit.appendChild(number)
+
+                //创建header-main下的header-footer
+                var headerFooter=document.createElement('div')
+                headerFooter.className='header-footer'
+                headerMain.appendChild(headerFooter)
+                //创建header-footer下的header-footer-container
+                var headerFooterContainer=document.createElement('div')
+                headerFooterContainer.className='header-footer-container'
+                headerFooter.appendChild(headerFooterContainer)
+                //创建header-footer-container下的bulletin
+                var bulletin=document.createElement('span')
+                bulletin.className='bulletin'
+                headerFooterContainer.appendChild(bulletin)
+                //创建header-footer-container下的jieshao
+                var jieshao=document.createElement('span')
+                jieshao.className='jieshao'
+                jieshao.innerHTML=data.seller.bulletin
+                headerFooterContainer.appendChild(jieshao)
+
+                //创建header-main下的header-foods
+                var headerFoods=document.createElement('div')
+                headerFoods.className='header-foods'
+                headerMain.appendChild(headerFoods)
+                //创建header-foods下的table
+                var table=document.createElement('table')
+                headerFoods.appendChild(table)
+                //创建table下的tr
+                var tr=document.createElement('tr')
+                table.appendChild(tr)
+                var td1=['商品','评价','商家']
+                for(var i=0;i<td1.length;i++)
+                {
+                    var td=document.createElement('td')
+                    td.innerHTML=td1[i]
+                    tr.appendChild(td)
+                }
+            }
+            function createMenuItem() {
+                var menuUL = menu.firstElementChild;
+                //通过循环遍历数组 创建左边菜单栏
+                for (var i = 0; i < goods.length; i++) {
+                    var item = goods[i];
+
+                    var li = document.createElement('li')
+                    li.className = 'menu-item'
+                    var text = document.createElement('span')
+                    //我们可以根据item.type判断当前元素前面是否要添加图标
+                    if (item.type >= 0)//说明有优惠图片
+                    {
+                        var icon = document.createElement('span')
+                        icon.className = 'icon ' + classMap[item.type]
+                        text.appendChild(icon)
+                    }
+                    text.className = 'text'
+                    text.innerHTML += item.name
+                    li.appendChild(text)
+                    menuUL.appendChild(li)
+                }
+            }
+
+            function createFoodList() {
+                var foodUl = goodsDiv.firstElementChild
+                for (var i = 0; i < goods.length; i++) {
+                    //创建食品栏第一层li
+                    var li = document.createElement('li')
+                    li.className = 'food-list'
+                    //创建标题
+                    var title = document.createElement('h1')
+                    title.className = 'title'
+                    title.innerHTML = goods[i].name
+                    //将标题添加到li中
+                    li.appendChild(title)
+                    //将第一层li添加到goods栏的ul上
+                    foodUl.appendChild(li)
+
+                    //创建第二层ul
+                    var itemUl = document.createElement('ul')
+                    li.appendChild(itemUl)
+                    for (var j = 0; j < goods[i].foods.length; j++) {
+                        //给数据设置了坐标，以后方便通过坐标跟按钮元素进行匹配
+                        goods[i].foods[j].i = i;
+                        goods[i].foods[j].j = j;
+                        createFoodItems(itemUl, goods[i].foods[j])
+                    }
+                }
+            }
+
+            //封装 创建食品详情li标签
+            function createFoodItems(warpper, item) {
+                //创建food-item元素
+                var foodItem = document.createElement('li')
+                foodItem.className = 'food-item'
+                warpper.appendChild(foodItem)
+                //创建icon
+                var iconDiv = document.createElement('div')
+                iconDiv.className = 'icon'
+                foodItem.appendChild(iconDiv)
+                //创建icon中的img
+                var img = document.createElement('img')
+                img.width = 57
+                img.height = 57
+                img.src = item.icon
+                iconDiv.appendChild(img)
+
+                //创建content元素
+                var content = document.createElement('content')
+                content.className = 'content'
+                foodItem.appendChild(content)
+                //菜名
+                var name = document.createElement('h2')
+                name.className = 'name';
+                name.innerHTML = item.name;
+                content.appendChild(name);
+                //商品描述
+                if (item.description != '') {
+                    var desc = document.createElement('p');
+                    desc.className = 'desc';
+                    desc.innerHTML = item.description;
+                    content.appendChild(desc);
+                }
+                //月售 好评 组建
+                var extra = document.createElement('div');
+                extra.className = 'extra';
+                content.appendChild(extra);
+                // 月售
+                var count = document.createElement('span');
+                count.className = 'sell-count';
+                count.innerHTML = '月售' + item.sellCount + '份';
+                extra.appendChild(count)
+                //好评率
+                var rat = document.createElement('span');
+                rat.innerHTML = '好评率' + item.rating + '%';
+                extra.appendChild(rat)
+                //价格组建
+                var price = document.createElement('div');
+                price.className = 'price';
+                content.appendChild(price);
+                //新价格
+                var now = document.createElement('span');
+                now.className = 'now';
+                now.innerHTML = '&yen;' + item.price;
+                price.appendChild(now)
+                //旧价格
+                if (item.oldPrice != '') {
+                    var old = document.createElement('span');
+                    old.className = 'old';
+                    old.innerHTML = '&yen;' + item.oldPrice;
+                    price.appendChild(old)
+                }
+                //按钮组件
+                item.count = 0
+                var btnWarpper = document.createElement('div')
+                btnWarpper.className = 'btn-wrapper'
+                //将按钮控制器添加到页面上
+                content.appendChild(btnWarpper)
+                var btnControl = createBtnControl(decCartControl, addCartControl, item, 0)
+                btnWarpper.appendChild(btnControl)
+            }
+
+            //创建 按钮组件
+            function createBtnControl(decFn, addFn, item, count) {
+                var btnControl = document.createElement('div')
+                btnControl.className = 'btn-control'
+                btnControl.i = item.i
+                btnControl.j = item.j
+                //减号按钮
+                var cartDec = document.createElement('div')
+                cartDec.className = "cart-decrease icon-remove_circle_outline";
+                cartDec.style.display = count ? 'inline-block' : 'none'
+                cartDec.onclick = decFn
+                btnControl.appendChild(cartDec)
+                //按钮数量
+                var cartCount = document.createElement('div')
+                cartCount.className = 'cart-count'
+                cartCount.style.display = count ? 'inline-block' : 'none'
+                cartCount.innerHTML = count ? count : 0
+                btnControl.appendChild(cartCount)
+                //加号按钮
+                var cartAdd = document.createElement('div')
+                cartAdd.className = 'cart-add icon-add_circle'
+                cartAdd.onclick = addFn
+                btnControl.appendChild(cartAdd)
+
+                return btnControl;
+            }
+
+            //加号按钮事件函数
+            function addCartControl() {
+                //数量span
+                var count = this.previousElementSibling
+                //减号span
+                var cartDec = count.previousElementSibling
+                //btnControl
+                var btnControl = this.parentNode
+                //根据btnControl存储的i j获取对应的数据
+                var item = data.goods[btnControl.i].foods[btnControl.j]
+                //获取 数量
+                var value = parseInt(item.count)
+                //数量 自身先加1再赋值给页面元素
+                count.innerHTML = ++value
+                //更新数据
+                item.count = value
+                //同名商品 去重并同步页面上的点击按钮
+                for (var i = 0; i < data.goods.length; i++) {
+                    var otherItems = data.goods[i].foods
+                    for (var j = 0; j < otherItems.length; j++) {
+                        var other = otherItems[j]
+                        if (other.name == item.name && (other.i != item.i || other.j != item.j)) {
+                            other.count = value
+                            refreshBtnControl(other)
+                        }
+                    }
+                }
+
+                //因为数量增加 展示减号元素和count元素
+                count.style.display = 'inline-block'
+
+                cartDec.style.display = 'inline-block'
+                // TODO: 准备好一个数组 把 商品信息添加到数组内
+                var index = hasItem(shopCartFoods, item)
+                if (index != -1) {
+                    shopCartFoods[index] = item;//存在替换
+                }
+                else {
+                    shopCartFoods.push(item)
+                }
+                console.log(shopCartFoods)
+                //刷新购物车
+                refreshShopCart()
+            }
+
+            //减号按钮事件函数
+            function decCartControl() {
+                //数量span
+                var count = this.nextElementSibling
+                //btnControl
+                var btnControl = this.parentNode
+                //根据btnControl存储的i j 获取对应的数据
+                var item = data.goods[btnControl.i].foods[btnControl.j]
+                //获取 数量
+                var value = parseInt(item.count)
+                //数量自身先减1再赋值给页面元素
+                --value;
+                //因为数量为0，隐藏减号元素 和count元素
+                if (value <= 0) {
+                    value = 0;
+                    count.style.display = 'none'
+                    this.style.display = 'none'
+                }
+                //TODO:同名商品 去重并同步页面上的点击按钮
+                for (var i = 0; i < data.goods.length; i++) { //遍历所有商品信息
+
+                    var otherItems = data.goods[i].foods;
+                    //step1:双重循环 data.goods[i].foods[j]
+                    //      获取到每一个食品的详细信息
+                    for (var j = 0; j < otherItems.length; j++) {
+                        //让每一个食品对象信息 跟当前btncontrol按钮所对应的食品对象进行比较
+
+                        var other = otherItems[j];
+                        //step:2找到同名,但位置不同的 相同商品信息
+                        if (other.name == item.name && (other.i != item.i || other.j != item.j)) {
+                            //step4:将同名商品的数量保持一致处理(覆盖操作)
+                            // 例点击第一个皮蛋瘦肉粥将数量增加至3份
+                            //通过遍历找到的同名商品对象中的数量count属性 也覆盖成3份
+                            other.count = value;
+                            //step4: 通过已经找到的同名商品对象的i,j属性下标值,获取 ui页面上相对应食品的control按钮
+                            //修改control按钮样式
+                            console.log(other.i, other.j)
+                            //TODO:根据指定下标 修改页面上指定商品的control样式
+                            refreshBtnControl(other)
+                        }
+                    }
+                }
+
+                    count.innerHTML = value
+                    item.count = value
+                    // TODO: 准备好一个数组 更新商品信息
+                    var index = hasItem(shopCartFoods, item)
+                    if (value == 0 && index != -1) {
+                        shopCartFoods.splice(index, 1)
+                    }
+                    else if (value != 0 && index != -1) {
+                        shopCartFoods[index] = item
+                    }
+                    console.log(shopCartFoods)
+                    //刷新购物车
+                    refreshShopCart()
+
+                }
+
+            //TODO:相同商品联动
+            function refreshBtnControl(item)
+            {
+                //获取食品栏中的第一层ul
+                var goodsUL=goodsDiv.firstElementChild
+                //通过i获取第一层ul中对应的li
+                var firstLi=goodsUL.getElementsByClassName('food-list')[item.i]
+                //通过 第一层ul中对应的li 找到第二层食品详情li
+                var secondLi = firstLi.getElementsByClassName('food-item')[item.j];
+                //通过 第二层食品详情li 找到add按钮
+                var btnControl = secondLi.getElementsByClassName('btn-control')[0];
+                //减号span
+                var cartDec = btnControl.firstElementChild;
+                //数量span
+                var count = cartDec.nextElementSibling;
+
+                count.innerHTML = item.count;
+                // 因为item.count数据已被更改  处理 减号 和 数量元素 display属性
+                if(item.count > 0){
+                    count.style.display = 'inline-block';
+
+                    cartDec.style.display = 'inline-block';
+                }else {
+                    count.style.display = 'none';
+
+                    cartDec.style.display = 'none';
+                }
+            }
+
+            //初始化购物车组件将购物车组件与数据绑定起来
+            function initShopCart() {
+                    var footer = document.getElementsByClassName('footer')[0]
+                    //购物车logo
+                    var logo = footer.getElementsByClassName('logo')[0]
+                    //小球元素
+                    var num = footer.getElementsByClassName('num')[0]
+                    //价钱
+                    var price = footer.getElementsByClassName('price')[0]
+                    //配送费
+                    var desc = footer.getElementsByClassName('desc')[0]
+                    //购买按钮
+                    var pay = footer.getElementsByClassName('pay')[0]
+                    //购物车列表
+                    var cartList = footer.getElementsByClassName('shopcart-list')[0]
+                    //清空
+                    var empty = footer.getElementsByClassName('empty')[0]
+                    //方便调用 声明购物车元素对象
+                    var cartObj =
+                    {
+                        logo: logo,
+                        num: num,
+                        price: price,
+                        desc: desc,
+                        pay: pay,
+                        cartList: cartList,
+                        empty: empty
+                    }
+                    //先隐藏购物栏
+                    cartList.style.display = 'none'
+                    logo.className = 'logo'
+                    pay.className = 'pay'
+                    //给小球添加点击事件
+                    logo.onclick = function () {
+                        //有购买东西并且还没显示过，即第一次
+                        if (shopCartFoods.length > 0 && !isShow) {
+                            cartList.style.display = 'block'
+                            isShow = !isShow;
+                        }
+                        else if (isShow) {
+                            cartList.style.display = 'none';
+                            isShow = !isShow;
+                        }
+                        else {
+                            return;
+                        }
+                    }
+
+                    //处理num
+                    num.style.display = 'none'
+                    num.innerHTML = '0'
+                    //处理价格
+                    price.innerHTML = '&yen;0'
+                    //设置配送费
+                    desc.innerHTML = '另需配送费&yen;' + data.seller.deliveryPrice + '元'
+                    //设置支付按钮
+                    pay.innerHTML = '&yen;' + data.seller.minPrice + '起送'
+
+                    //实现清空按钮功能
+                empty.onclick=function(e)
+                {
+                    e=e||window.event
+                    //双重循环 清除ui页面goods栏上所有control
+                    for(var i=0;i<data.goods.length;i++)
+                    {
+                        var otherItems = data.goods[i].foods;
+                        for (var j = 0; j < otherItems.length; j++) {
+                            var other = otherItems[j];
+                            if (other.count > 0 ) {
+                                other.count = 0;
+                                refreshBtnControl(other)
+                            }
+                        }
+                    }
+                    //清除购物车数组
+                    shopCartFoods = [];
+                    //清除购物车列表
+                    refreshShopCart();
+                    e.stopPropagation();
+                }
+
+                    return cartObj
+                }
+
+
+            //购物车商品数组中是否已经存放了该元素
+            function hasItem(arr, item) {
+                    for (var i = 0; i < arr.length; i++) {
+//                        if (arr[i].i == item.i && arr[i].j == item.j) {
+//                            return i;
+//                        }
+                        if(arr[i].name==item.name)
+                        {
+                            return i;
+                        }
+                    }
+                    return -1;
+                }
+
+            //TODO:更新购物车组建
+            function refreshShopCart() {
+                    //用来记录用户购买了多少件商品
+                    var count = 0
+                    //记录商品总价
+                    var totalPrice = 0
+
+                    if (shopCartFoods.length == 0) {
+                        shopCartEl.cartList.style.display = 'none'
+                        isShow = !isShow
+                    }
+
+                    for (var i = 0; i < shopCartFoods.length; i++) {
+                        count += shopCartFoods[i].count
+                        totalPrice += shopCartFoods[i].count * shopCartFoods[i].price
+                    }
+                    shopCartEl.price.innerHTML = '&yen;' + totalPrice
+                    //根据数量处理 购物车logo元素
+                    shopCartEl.num.innerHTML = count
+                    if (count > 0) {
+                        shopCartEl.num.style.display = 'block'
+                        shopCartEl.logo.className = 'logo highlight'
+                    }
+                    else {
+                        shopCartEl.num.style.display = 'none'
+                        shopCartEl.logo.className = 'logo'
+                    }
+                    //根据总价处理支付按钮
+                    if (totalPrice >= data.seller.minPrice) {
+                        shopCartEl.pay.className = 'pay enough'
+                        shopCartEl.pay.innerHTML = '去结算'
+                    }
+                    else {
+                        shopCartEl.pay.className = 'pay'
+                        shopCartEl.pay.innerHTML = '&yen;' + data.seller.minPrice + '起送'
+                    }
+                    //创建(更新)购物车列表
+                    createShopCartList()
+                }
+
+            //TODO:创建购物车详情列表
+            function createShopCartList() {
+                    //获取购物车列表 的ul
+                    var ul = shopCartEl.cartList.getElementsByClassName('list-content')[0].firstElementChild
+                    //当你有了数据变更时 把所有元素删除重新添加一遍
+                    ul.innerHTML = ''
+                    for (var i = 0; i < shopCartFoods.length; i++) {
+                        //创建food li元素
+                        var food = document.createElement('li')
+                        food.className = 'food'
+                        ul.appendChild(food)
+                        //创建 name span
+                        var name = document.createElement('span')
+                        name.className = 'name'
+                        name.innerHTML = shopCartFoods[i].name
+                        food.appendChild(name)
+                        //创建price div
+                        var price = document.createElement('div')
+                        price.className = 'price'
+                        price.innerHTML = '<span>&yen;' + shopCartFoods[i].price + '</span>'
+                        food.appendChild(price)
+                        //创建btnWarpper
+                        var btnWarpper = document.createElement('div')
+                        btnWarpper.className = 'btn-wrapper'
+                        food.appendChild(btnWarpper)
+                        //创建btnControl
+                        var btnControl = createBtnControl(shopCartControlDec, shopCartControlAdd, shopCartFoods[i], shopCartFoods[i].count)
+                        btnWarpper.appendChild(btnControl);
+
+                    }
+                }
+
+            //TODO:购物车列表中的 加号按钮点击事件
+            function shopCartControlAdd() {
+                    var btnControl = this.parentNode
+                    var i = btnControl.i
+                    var j = btnControl.j
+                    //获取食品栏中第一层ul
+                    var goodUL = goodsDiv.firstElementChild
+                    //通过i获取第一层ul中对应的li
+                    var firstLi = goodUL.getElementsByClassName('food-list')[i]
+                    //通过第一层ul中对应的li找到第二层食品详情li
+                    var secondLi = firstLi.getElementsByClassName('food-item')[j]
+                    //通过第二层食品详情li找到dec按钮
+                    var addBtn = secondLi.getElementsByClassName('cart-add')[0]
+                    //通过js代码调用addBtn的点击事件
+                    addBtn.click();
+                }
+
+            //TODO:购物车列表中的 减号按钮点击事件
+            function shopCartControlDec() {
+                    var btnControl = this.parentNode;
+                    var i = btnControl.i;
+                    var j = btnControl.j;
+                    //获取饰品栏中第一层ul
+                    var goodsUL = goodsDiv.firstElementChild;
+                    // 通过 i获取第一层ul中对应的li
+                    var firstLi = goodsUL.getElementsByClassName('food-list')[i];
+                    //通过 第一层ul中对应的li 找到第二层食品详情li
+                    var secondLi = firstLi.getElementsByClassName('food-item')[j];
+                    //通过 第二层食品详情li 找到dec按钮
+                    var decBtn = secondLi.getElementsByClassName('cart-decrease')[0];
+                    //通过js代码调用 addBtn的点击事件
+                    decBtn.click();
+                    console.log(i, j)
+                }
+
+
+            var goodUl=goodsDiv.firstElementChild
+            var goodUlLi=goodUl.getElementsByClassName('food-list')
+            var textSpan=menu.getElementsByClassName('text')
+            //定义一个数组 将每个内容板块返回写入 数组中
+            var offsetArr=[]
+            for(var i=0;i<goodUlLi.length;i++)
+            {
+                if(i==0)
+                {
+                    offsetArr.push(goodUlLi[i].offsetTop)
+                }
+                else
+                {
+                    var num=goodUlLi[i-1].offsetTop+(goodUlLi[i-1].offsetHeight)
+                    offsetArr.push(num)
+                }
+            }
+            var lastGoodUlLi=goodUlLi[goodUlLi.length-1]
+            offsetArr.push(lastGoodUlLi.offsetTop+lastGoodUlLi.offsetHeight)
+            //给页面添加滚动事件
+//            console.log(offsetArr)
+            goodsDiv.onscroll=function()
+            {
+                //获取页面滚动过的距离 兼容写法
+                var scrollTop=goodsDiv.scrollTop||document.body.scrollTop
+                //根据滚动过的距离，和每一个楼层之间距离顶部的距离进行比较，找到对应的楼层
+
+                for(var i=1;i<offsetArr.length;i++)
+                {
+                    if(scrollTop<offsetArr[i]&&scrollTop>=offsetArr[i-1]) {
+                        console.log('scrollTop:'+scrollTop)
+                        console.log('offsetArr[i]:'+offsetArr[i])
+                        console.log('offsetArr[i-1]:'+offsetArr[i-1])
+                        textSpan[i-1].style.color='red'
+
+                    }
+                    else
+                    {
+                        textSpan[i-1].style.color='#333'
+//                        console.log(textSpan)
+                    }
+                }
+        }
+            var menuLi=menu.getElementsByClassName('menu-item')
+        //点击对应楼层span跳到相应位置
+            for(var j=0;j<menuLi.length;j++)
+            {
+                menuLi[j].index=j;
+                menuLi[j].onclick=function()
+                {
+                    console.log(this.index)
+                    var top=0;
+                      top= goodUlLi[this.index].offsetTop
+                        for(var n=0;n<textSpan.length;n++)
+                        {
+                            textSpan[n].style.color='#333'
+                        }
+                         textSpan[this.index].style.color='red'
+                    //返回指定位置
+                    goodsDiv.scrollTop=top
+                    document.body.scrollTop = top;
+                }
+            }
+
+        }
+    </script>
+</head>
+<body>
+<div class="bigbox">
+    <div class="header">
+    <div class="header-main">
+        <!--<div class="header-icon">-->
+            <!--<img width="64" height="64"-->
+                 <!--src="http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg">-->
+        <!--</div>-->
+        <!--<div class="header-content">-->
+            <!--<div class="shopname">-->
+                <!--<span class="brand"></span>-->
+                <!--<h1>粥品香坊（大运村）</h1>-->
+            <!--</div>-->
+           <!--<p class="deliver">蜂鸟专送/38分钟送达</p>-->
+            <!--<div class="activit">-->
+                <!--<span class="decrease"></span>-->
+                <!--<span class="pay">在线支付满28减5，满50减10</span>-->
+                <!--<span class="number">5个></span>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="header-footer">-->
+            <!--<div class="header-footer-container">-->
+            <!--<span class="bulletin"></span>-->
+            <!--<span class="jieshao">粥品 </span>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="header-foods">-->
+            <!--<table>-->
+                <!--<tr>-->
+                    <!--<td>商品</td>-->
+                    <!--<td>评价</td>-->
+                    <!--<td>商家</td>-->
+                <!--</tr>-->
+            <!--</table>-->
+        <!--</div>-->
+    </div>
+    </div>
+    <div class="container">
+        <div class="menu">
+            <ul>
+            <!--<li class="menu-item">-->
+                <!--<span class="text">-->
+                    <!--<span class="icon special"></span>单人特色套餐-->
+                <!--</span>-->
+            <!--</li>-->
+                <!--<li class="menu-item">-->
+                <!--<span class="text">-->
+                   <!--单人特色套餐-->
+                <!--</span>-->
+                <!--</li>-->
+            </ul>
+        </div>
+        <div class="goods">
+        <ul>
+            <!--<li>-->
+                <!--<h1 class="title">单人特色套餐</h1>-->
+                <!--<ul>-->
+                   <!--<li class="food-item">-->
+                       <!--<div class="icon">-->
+                           <!--<img width="57" height="57"-->
+                                <!--src="http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114">-->
+                       <!--</div>-->
+                       <!--<div class="content">-->
+                           <!--<h2 class="name">皮蛋瘦肉粥</h2>-->
+                           <!--<p class="desc">咸粥</p>-->
+                           <!--<div class="extra">-->
+                               <!--<span class="sell-count">月售100份</span><span>好评率100%</span>-->
+                           <!--</div>-->
+                           <!--<div class="price">-->
+                               <!--<span class="now">&yen;15</span><span class="old">&yen;7</span>-->
+                           <!--</div>-->
+                           <!--<div class="btn-wrapper">-->
+                               <!--<div class="btn-control">-->
+                                   <!--<div class="cart-decrease icon-remove_circle_outline"></div>-->
+                                   <!--<div class="cart-count">12</div>-->
+                                   <!--<div class="cart-add icon-add_circle"></div>-->
+                               <!--</div>-->
+                           <!--</div>-->
+                       <!--</div>-->
+                   <!--</li>-->
+                <!--</ul>-->
+            <!--</li>-->
+        </ul>
+        </div>
+    </div>
+    <div class="footer">
+    <div class="footer-content">
+        <div class="content-left">
+            <div class="logo-warpper">
+                <div class="logo highlight"><i class="icon-shopping_cart"></i></div>
+                <div class="num">99</div>
+            </div>
+            <div class="price highlight">&yen;40</div>
+            <div class="desc">另需配送费&yen;4元</div>
+        </div>
+        <div class="content-right">
+            <div class="pay enough">&yen;20起送</div>
+        </div>
+    </div>
+
+    <div class="shopcart-list">
+        <div class="list-header">
+            <h2 class="title">购物车</h2>
+            <div class="empty">清空</div>
+        </div>
+        <div class="list-content">
+            <ul>
+                <!--<li class="food">-->
+                    <!--<span class="name">莲子黑米粥</span>-->
+                    <!--<div class="price">-->
+                        <!--<span>&yen;10</span>-->
+                    <!--</div>-->
+                    <!--<div class="btn-wrapper">-->
+                        <!--<div class="btn-control">-->
+                            <!--<div class="cart-decrease icon-remove_circle_outline"></div>-->
+                            <!--<div class="cart-count">12</div>-->
+                            <!--<div class="cart-add icon-add_circle"></div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</li>-->
+                <!--<li class="food">-->
+                    <!--<span class="name">莲子黑米粥</span>-->
+                    <!--<div class="price">-->
+                        <!--<span>&yen;10</span>-->
+                    <!--</div>-->
+                    <!--<div class="btn-wrapper">-->
+                        <!--<div class="btn-control">-->
+                            <!--<div class="cart-decrease icon-remove_circle_outline"></div>-->
+                            <!--<div class="cart-count">12</div>-->
+                            <!--<div class="cart-add icon-add_circle"></div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</li>-->
+                <!--<li class="food">-->
+                    <!--<span class="name">莲子黑米粥</span>-->
+                    <!--<div class="price">-->
+                        <!--<span>&yen;10</span>-->
+                    <!--</div>-->
+                    <!--<div class="btn-wrapper">-->
+                        <!--<div class="btn-control">-->
+                            <!--<div class="cart-decrease icon-remove_circle_outline"></div>-->
+                            <!--<div class="cart-count">12</div>-->
+                            <!--<div class="cart-add icon-add_circle"></div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</li>-->
+                <!--<li class="food">-->
+                    <!--<span class="name">莲子黑米粥</span>-->
+                    <!--<div class="price">-->
+                        <!--<span>&yen;10</span>-->
+                    <!--</div>-->
+                    <!--<div class="btn-wrapper">-->
+                        <!--<div class="btn-control">-->
+                            <!--<div class="cart-decrease icon-remove_circle_outline"></div>-->
+                            <!--<div class="cart-count">12</div>-->
+                            <!--<div class="cart-add icon-add_circle"></div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</li>-->
+                <!--<li class="food">-->
+                    <!--<span class="name">莲子黑米粥</span>-->
+                    <!--<div class="price">-->
+                        <!--<span>&yen;10</span>-->
+                    <!--</div>-->
+                    <!--<div class="btn-wrapper">-->
+                        <!--<div class="btn-control">-->
+                            <!--<div class="cart-decrease icon-remove_circle_outline"></div>-->
+                            <!--<div class="cart-count">12</div>-->
+                            <!--<div class="cart-add icon-add_circle"></div>-->
+                        <!--</div>-->
+                    <!--</div>-->
+                <!--</li>-->
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

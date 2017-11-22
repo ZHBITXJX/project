@@ -1,0 +1,832 @@
+{
+  "slideImage": [
+    "http://img60.ddimg.cn/www/a/5/fhws.jpg",
+    "http://img60.ddimg.cn/www/a/4/wxy.jpg",
+    "http://img62.ddimg.cn/www/a/8/1dijia.jpg",
+    "http://img62.ddimg.cn/www/a/8/2xifei.jpg"
+  ],
+  "content": [
+    {
+      "Bigmodule": [
+        {
+          "icon": "http://img61.ddimg.cn/ww/5/vfl.png",
+          "name": "分类"
+        },
+        {
+          "icon": "http://img60.ddimg.cn/ww/5/vcx.png",
+          "name": "畅销"
+        },
+        {
+          "icon": "http://img61.ddimg.cn/ww/7/vmf.jpg",
+          "name": "文学节"
+        },
+        {
+          "icon": "http://img63.ddimg.cn/ww/5/vwb.png" ,
+          "name": "完本"
+        }
+      ],
+      "Smallmodule":[
+        {
+          "name": "文学月  限时免费",
+          "lists": [
+            {
+              "mediaId": 1960154933,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980188437,
+              "shelfStatus": 1,
+              "authorPenname": "冬天的柳叶",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 5,
+              "creationDate": 1486623727000,
+              "title": "韶光慢",
+              "price": 1,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/49/33/1960154933_ii_cover.jpg?version=4187df78-bffd-4166-97f9-bb647aaefba6",
+              "chapterCnt": 710,
+              "commentNumber": 2
+            },
+            {
+              "mediaId": 1960155775,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980189279,
+              "shelfStatus": 1,
+              "authorPenname": "向微醺",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 5,
+              "creationDate": 1490342827000,
+              "title": "快穿：男神，从了我吧！",
+              "price":1,
+              "categoryIds": "HXYQ",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/57/75/1960155775_ii_cover.jpg?version=faffd623-1f75-4385-bee4-cb2e23caec13",
+              "chapterCnt": 1323,
+              "commentNumber": 5
+            },
+            {
+              "mediaId": 1960173270,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980206774,
+              "shelfStatus": 1,
+              "authorPenname": "万岁爷耶",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 5,
+              "creationDate": 1497162188000,
+              "title": "重生军嫂驭夫计",
+              "price": 1,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/32/70/1960173270_ii_cover.jpg?version=65225187-c869-41fd-90ad-630ef03edd25",
+              "chapterCnt": 697,
+              "commentNumber": 2
+            }
+          ],
+          "link":"更多即将限免>>"
+        },
+        {
+          "name": "主编力荐",
+          "lists": [
+            {
+              "mediaId": 1960166815,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980200319,
+              "shelfStatus": 1,
+              "authorPenname": "吕颜",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1496912764000,
+              "title": "密爱原配：懒妻太娇软",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/68/15/1960166815_ii_cover.jpg?version=7250a035-6f17-438e-b6f2-595274c361fa",
+              "chapterCnt": 345,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960154987,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980188491,
+              "shelfStatus": 1,
+              "authorPenname": "沧澜止戈",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1486627266000,
+              "title": "盛唐无妖",
+              "price": 0,
+              "categoryIds": "HXYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/49/87/1960154987_ii_cover.jpg?version=0d515707-aea1-4dc9-a2be-0cb97ce78039",
+              "chapterCnt": 616,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960084401,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980117904,
+              "shelfStatus": 1,
+              "authorPenname": "青铜城",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1460606040000,
+              "title": "剩女桃花劫",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/44/1/1960084401_ii_cover.jpg?version=88083cd6-abd3-40b3-98bd-eb7da0ddf040",
+              "chapterCnt": 218,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960132021,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980165525,
+              "shelfStatus": 1,
+              "authorPenname": "荨秣泱泱",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "subTitle": "",
+              "creationDate": 1469686507000,
+              "title": "绝世神医之逆天魔妃",
+              "price": 0,
+              "categoryIds": "HXYQ",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/20/21/1960132021_ii_cover.jpg?version=47e32577-1bab-4a08-ae9e-8256fb2ccf34",
+              "chapterCnt": 1333,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960112369,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980145873,
+              "shelfStatus": 1,
+              "authorPenname": "夜惠美",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1466574905000,
+              "title": "佳婿",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/23/69/1960112369_ii_cover.jpg?version=635be5d1-ada7-41c1-b7a9-7223d4da91fb",
+              "chapterCnt": 361,
+              "commentNumber": 1
+            },
+            {
+              "mediaId": 1960091127,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980124631,
+              "shelfStatus": 1,
+              "authorPenname": "扉秀",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1465667171000,
+              "title": "豪门重生：鬼眼女相师",
+              "price": 0,
+              "categoryIds": "HXYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/11/27/1960091127_ii_cover.jpg?version=65aba4dc-90b3-496d-b81a-8997fc23cfed",
+              "chapterCnt": 1259,
+              "commentNumber": 2
+            }
+          ],
+          "link":"查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule": {
+        "left": {
+          "Bigtitle": "今日红文",
+          "dec": "紧跟流行风向",
+          "img": "http://img63.ddimg.cn/www/a/5/vz1.jpg"
+        },
+        "right": [
+          {
+            "left": {
+              "name": "大神专区",
+              "dec": "一起品味精品"
+            },
+            "right": {
+              "img": "http://img63.ddimg.cn/zt2016/201703/ww22.jpg"
+            }
+          },
+          {
+            "left": {
+              "name": "新书尝鲜",
+              "dec": "汇聚热点新书"
+            },
+            "right": {
+              "img": "http://img62.ddimg.cn/zt2016/201703/xinshu.jpg"
+            }
+          }
+        ]
+      },
+      "Smallmodule":[
+        {
+          "name": "当当首发",
+          "lists": [
+            {
+              "mediaId": 1960183954,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980217565,
+              "shelfStatus": 1,
+              "authorPenname": "湖狐公子",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1502759524000,
+              "title": "仙魔女尊",
+              "price": 0,
+              "categoryIds": "HXYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/39/54/1960183954_ii_cover.jpg?version=d46c1470-855f-4c52-bf68-c2d393842bd7",
+              "chapterCnt": 48,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960184445,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980218139,
+              "shelfStatus": 1,
+              "authorPenname": "小惠",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1505098805000,
+              "title": "重生之首长的小娇媳",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/44/45/1960184445_ii_cover.jpg?version=554b9e8e-0473-4fac-a1ab-0225adee03e3",
+              "chapterCnt": 89,
+              "commentNumber": 4
+            },
+            {
+              "mediaId": 1960184394,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980218082,
+              "shelfStatus": 1,
+              "authorPenname": "北风",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1504660831000,
+              "title": "御灵师",
+              "price": 0,
+              "categoryIds": "CYCS",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/43/94/1960184394_ii_cover.jpg?version=838bab1f-74ea-4e61-b0f3-3ce212af31fd",
+              "chapterCnt": 35,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960159780,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980193284,
+              "shelfStatus": 1,
+              "authorPenname": "花谢",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1495591324000,
+              "title": "穿越之农女贵妻",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/97/80/1960159780_ii_cover.jpg?version=9f862394-159b-418e-a6d7-ae716b8c9d78",
+              "chapterCnt": 119,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960151965,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980185469,
+              "shelfStatus": 1,
+              "authorPenname": "慕七",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1476001866000,
+              "title": "爱情筹码",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/19/65/1960151965_ii_cover.jpg?version=921bd9f9-ae59-4abf-842b-f3fbe5c997ec",
+              "chapterCnt": 492,
+              "commentNumber": 33
+            },
+            {
+              "mediaId": 1960183828,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980217435,
+              "shelfStatus": 1,
+              "authorPenname": "一颗米",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1501569724000,
+              "title": "嚣张世子妃",
+              "price": 0,
+              "categoryIds": "CYCS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/38/28/1960183828_ii_cover.jpg?version=89fe7d00-a551-40d5-8f18-e19ddf3fd103",
+              "chapterCnt": 78,
+              "commentNumber": 98
+            }
+          ],
+          "link":"查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule":[
+        {"icon":"http://img62.ddimg.cn/wangwen2017/yangyyy/zc.jpg" },
+        {"icon":"http://img62.ddimg.cn/wangwen2017/yangyyy/xc.jpg" },
+        {"icon":"http://img61.ddimg.cn/wangwen2017/yangyyy/gd.jpg"},
+        {"icon":"http://img60.ddimg.cn/wangwen2017/yangyyy/nq.jpg"}
+      ],
+      "Smallmodule":[
+        {
+          "name": "现代言情",
+          "lists": [
+            {
+              "mediaId": 1960083480,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980116983,
+              "shelfStatus": 1,
+              "authorPenname": "我想静静",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1459490463000,
+              "title": "掳爱：错惹豪门继承人",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/34/80/1960083480_ii_cover.jpg?version=8e98c8fb-f131-4363-9fe0-05a741f64277",
+              "chapterCnt": 2216,
+              "commentNumber": 5
+            },
+            {
+              "mediaId": 1960086440,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980119944,
+              "shelfStatus": 1,
+              "authorPenname": "宋兮兮",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1464898866000,
+              "title": "惹火小辣妻：上司，好闷骚",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/64/40/1960086440_ii_cover.jpg?version=a71d315f-a569-49db-8f27-a7f3a30c6567",
+              "chapterCnt": 1661,
+              "commentNumber": 29
+            },
+            {
+              "mediaId": 1960168880,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980202384,
+              "shelfStatus": 1,
+              "authorPenname": "没见过的东家",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1496992568000,
+              "title": "枕边尤物",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/88/80/1960168880_ii_cover.jpg?version=cc112b47-20b3-468d-8322-70f4d3f622fb",
+              "chapterCnt": 308,
+              "commentNumber": 14
+            },
+            {
+              "mediaId": 1960094634,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980128138,
+              "shelfStatus": 1,
+              "authorPenname": "叶非夜",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1466073066000,
+              "title": "萌物遇上高富帅：101次抢婚",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/46/34/1960094634_ii_cover.jpg?version=9e839b92-ae3c-4871-a05c-765a0cf24d83",
+              "chapterCnt": 1058,
+              "commentNumber": 8
+            },
+            {
+              "mediaId": 1960162146,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980195650,
+              "shelfStatus": 1,
+              "authorPenname": "吴薇",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1496736317000,
+              "title": "一次一夜：顾少诱妻成瘾",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/21/46/1960162146_ii_cover.jpg?version=0e2d1778-b104-4b0a-b0df-3fb835b4a2b1",
+              "chapterCnt": 1060,
+              "commentNumber": 1
+            },
+            {
+              "mediaId": 1960154599,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980188103,
+              "shelfStatus": 1,
+              "authorPenname": "初城",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1480576987000,
+              "title": "面朝季尧，春暖花开",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/45/99/1960154599_ii_cover.jpg?version=cbb30400-6bca-4565-9954-bb3dea6f4bd0",
+              "chapterCnt": 262,
+              "commentNumber": 2
+            }
+          ],
+          "link":"查看更多>>"
+        },
+        {
+          "name": "古代言情",
+          "lists": [
+            {
+              "mediaId": 1960101306,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980134810,
+              "shelfStatus": 1,
+              "authorPenname": "面北眉南",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1466388481000,
+              "title": "嫡谋",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/13/6/1960101306_ii_cover.jpg?version=ba872396-439d-468e-8d1c-4a21239aecc0",
+              "chapterCnt": 557,
+              "commentNumber": 9
+            },
+            {
+              "mediaId": 1960179751,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980213255,
+              "shelfStatus": 1,
+              "authorPenname": "湘紫",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1497428706000,
+              "title": "欢宠田园，农女太子妃",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/97/51/1960179751_ii_cover.jpg?version=631d5979-5d8f-4b71-9261-9f1a35fe7de9",
+              "chapterCnt": 1682,
+              "commentNumber": 4
+            },
+            {
+              "mediaId": 1960118683,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980152187,
+              "shelfStatus": 1,
+              "authorPenname": "随云飘舞",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1469592067000,
+              "title": "红妆当自强：冷宫德妃",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/86/83/1960118683_ii_cover.jpg?version=cdca009b-6e07-49ca-8ffb-b125006e3f30",
+              "chapterCnt": 211,
+              "commentNumber": 1
+            },
+            {
+              "mediaId": 1960131772,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980165276,
+              "shelfStatus": 1,
+              "authorPenname": "君残心",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1469646319000,
+              "title": "嫡女重生之一品世子妃",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/17/72/1960131772_ii_cover.jpg?version=bb2021c6-6714-4fc5-a76d-99f87d08dc65",
+              "chapterCnt": 1223,
+              "commentNumber": 1
+            },
+            {
+              "mediaId": 1960114935,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980148439,
+              "shelfStatus": 1,
+              "authorPenname": "自在观",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1466621705000,
+              "title": "周氏医女",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/49/35/1960114935_ii_cover.jpg?version=db3a456a-54ac-45b6-844a-ae022337d6f0",
+              "chapterCnt": 1984,
+              "commentNumber": 1
+            },
+            {
+              "mediaId": 1960122736,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980156240,
+              "shelfStatus": 1,
+              "authorPenname": "千山茶客",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1469602523000,
+              "title": "重生之贵女难求",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/27/36/1960122736_ii_cover.jpg?version=89402860-122a-46bc-88fd-0aca5d2c4ae5",
+              "chapterCnt": 227,
+              "commentNumber": 4
+            }
+          ],
+          "link":"查看更多>>"
+        },
+        {
+          "name": "穿越重生",
+          "lists": [
+            {
+              "mediaId": 1960098036,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980131540,
+              "shelfStatus": 1,
+              "authorPenname": "雪中回眸",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1466388022000,
+              "title": "清穿之四爷宠妃",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/80/36/1960098036_ii_cover.jpg?version=f3742c13-ac6e-44d4-a24f-3f223b750fe2",
+              "chapterCnt": 759,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960173270,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980206774,
+              "shelfStatus": 1,
+              "authorPenname": "万岁爷耶",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 5,
+              "creationDate": 1497162188000,
+              "title": "重生军嫂驭夫计",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/32/70/1960173270_ii_cover.jpg?version=65225187-c869-41fd-90ad-630ef03edd25",
+              "chapterCnt": 697,
+              "commentNumber": 2
+            },
+            {
+              "mediaId": 1960183362,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980216954,
+              "shelfStatus": 1,
+              "authorPenname": "江山一顾",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1499595665000,
+              "title": "重生八零俏佳妻",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/33/62/1960183362_ii_cover.jpg?version=5a405d7a-38c5-4a80-bd04-8cf4375739d6",
+              "chapterCnt": 1719,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960162902,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980196406,
+              "shelfStatus": 1,
+              "authorPenname": "樱雨飘零",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1496765105000,
+              "title": "重生帝女凰途",
+              "price": 0,
+              "categoryIds": "GZYQ",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/29/2/1960162902_ii_cover.jpg?version=c934a87f-1c43-43b8-87da-d7285053873d",
+              "chapterCnt": 776,
+              "commentNumber": 5
+            },
+            {
+              "mediaId": 1960185367,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980219068,
+              "shelfStatus": 1,
+              "authorPenname": "醉妃儿",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1506312664000,
+              "title": "穿越八零年代",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/53/67/1960185367_ii_cover.jpg?version=afb83a2b-39f4-4f28-99ed-1071b85fe72d",
+              "chapterCnt": 1629,
+              "commentNumber": 2
+            },
+            {
+              "mediaId": 1960185388,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980219089,
+              "shelfStatus": 1,
+              "authorPenname": "海星99",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1506313144000,
+              "title": "六零小军嫂",
+              "price": 0,
+              "categoryIds": "XDYQ",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/53/88/1960185388_ii_cover.jpg?version=b4450a83-03ca-4be9-9dc4-6044bdecd9a7",
+              "chapterCnt": 323,
+              "commentNumber": 3
+            }
+          ],
+          "link":"查看更多>>"
+        }
+      ]
+    },
+    {
+      "Smallmodule":[{
+        "title":"猜你喜欢",
+        "content":[
+          {
+            "left":{"img":"http://img61.ddimg.cn/digital/product/31/66/1960183166_cc_cover.jpg?version=d3c55201-ab8b-4721-bb5f-b228efed82dd"},
+            "right":{
+              "name":"以嫡为贵",
+              "dec":"木嬴",
+              "ico":"前世嫁作他人妇，只为她人做嫁衣。　　再次睁眼，她誓要活出另一番精彩。　　护至亲，诛仇人，虐渣之余，拖人后腿。　　日子过的不要太忙，世子爷你就不要来凑热闹了，姑凉这辈子不嫁姓萧的！　　某爷：你不知道我娘又和离了吗？　　某女：又……这是重点。"
+            }
+          },
+          {
+            "left":{"img":"http://img61.ddimg.cn/digital/product/88/69/1960108869_cc_cover.jpg?version=5b53c866-eea2-4307-bf95-eaae9565e0d3"},
+            "right":{
+              "name":"名门闺杀",
+              "dec":"面北眉南",
+              "ico":"上一世出身政治世家，却因身体的原故让她被保护的很好，也不得不渐渐养成了端庄恬静的性子。　　这一世出生名门，却是母亲早逝，父亲忽视，后母刁难，祖母冷淡。　　人人都道王三娘柔顺宽厚，却不知她也曾万千宠爱集一身，也曾刁钻跋扈，蛮横娇纵。　　面对一干粉墨登场的鬼魅魍魉你争我斗相互倾轧，她只看成办公室职场硝烟　　面对一波波来势汹汹的敌对势力，战还是和？这是个问题！　　爷爷说，如果非要伤害一个人，必须灭其复仇之力，才能断其复仇之念。　　爸爸说，手段可以狠厉，态度一定要温和。　　奶奶说，要学会宽恕，不要轻易与人为敌。　　若非战不可，便不死不休。　　妈妈说，不要找错了对手，否则还没开始你就输了。"
+            }
+          },
+
+          {
+            "left":{"img":"http://img61.ddimg.cn/digital/product/72/59/1960137259_cc_cover.jpg?version=858215f2-a648-4f0b-b102-e95b6e14480f"},
+            "right":{
+              "name":"一路上有你，律师老公太危险",
+              "dec":"吉祥夜",
+              "ico":"他是天之骄子，她是神秘孤女。从此，她过上管家婆的生活，甚至帮他追女朋友……她陪着他一路成长，见证他无数次恋爱失恋，也见证着他从一个问题少年成长为法律精英。他从来不知道，这一路走来，他之所以勇往直前不折不挠，是因为，他的身边始终有一个她……直到后来，她身边有了另一男子，他才眯起幽深的眸子，“好，祝你一路顺风，半路失踪……”三年时光，他已是律界传奇，而她，是留学归来的小律师。他盯着她没戴戒指的无名指，笑着叫她妹妹，“好像我结婚证上写着你的名字。”“那又如何？”他没有发现，她从不曾违抗过他。只是有三个字，她永远也不会说出口，因为她明白，她永远不可能是站在你身边的那一个……【情节虚构，请勿模仿】"
+            }
+          },
+          {
+            "left":{"img":"http://img60.ddimg.cn/digital/product/55/80/1960155580_cc_cover.jpg?version=aef09e45-5972-4c22-993e-da1ce3ef46d5"},
+            "right":{
+              "name":"试婚老公，一宠到底",
+              "dec":"一千万",
+              "ico":"“大哥，不要……”昏暗的过道她哭泣求饶，却还是被他占了清白之身。从此以后，他白天是衣冠禽兽，晚上禽兽不如。美曰其名试婚，实则夜夜试身，甚至在新婚夜，老公大人重口味地带她跑进监狱玩洞房……他以权钱堆积出一座娱乐帝国，只为捧她站上最巅峰，把她圈养在他的繁华世界。【宠文，男女主身心干净】"
+            }
+          },
+          {
+            "left":{"img":"http://img60.ddimg.cn/digital/product/66/93/1960116693_cc_cover.jpg?version=34bc7392-41b5-47c7-a205-10f27d993e62"},
+            "right":{
+              "name":"霸道总裁的独宠：追妻99次",
+              "dec":"叶冬雪",
+              "ico":"“嫁给我。”“我不要。”“我只是在通知你。”“……”被闺蜜算计，她误睡了全国最尊贵的男人，还因此怀上了他的孩子。她本想将孩子打掉，谁知他却霸道的出现在她面前，不顾她的意愿，拉她去领证。婚后，他宠她入骨，却又十分霸道管着她，不准她见前男友，不准她拍戏，不准她跟任何一个男人有身体上的接触，不准她看别的男人一眼。这些她通通都忍了，可是他既然连儿子都不让她抱，她实在是忍无可忍，扔下离婚协议，带着儿子逃跑。"
+            }
+          }
+        ]
+
+      }
+        ]
+    }
+
+  ]
+}

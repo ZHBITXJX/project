@@ -1,0 +1,839 @@
+{
+  "slideImage": [
+    "http://img60.ddimg.cn/www/a/4/wxy.jpg",
+    "http://img60.ddimg.cn/www/a/7/1jiguan.jpg",
+    "http://img63.ddimg.cn/www/a/7/2yaoshen.jpg",
+    "http://img62.ddimg.cn/www/a/7/3dasong.jpg"
+  ],
+  "content": [
+    {
+      "Bigmodule": [
+        {
+          "icon": "http://img60.ddimg.cn/ww/5/nfl.png",
+          "name": "分类"
+        },
+        {
+          "icon": "http://img63.ddimg.cn/ww/5/ncx.png",
+          "name": "畅销"
+        },
+        {
+          "icon": "http://img61.ddimg.cn/ww/7/nmf.jpg",
+          "name": "文学节"
+        },
+        {
+          "icon": "http://img60.ddimg.cn/ww/5/nwb.png" ,
+          "name": "完本"
+        }
+      ],
+      "Smallmodule":[
+        {
+          "name": "文学月  限时免费",
+          "lists": [
+            {
+              "mediaId": 1960182073,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980215594,
+              "shelfStatus": 1,
+              "authorPenname": "一梦黄粱",
+              "priceUnit": 5,
+              "price":1,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 5,
+              "creationDate": 1499494747000,
+              "title": "老衲要还俗",
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/20/73/1960182073_ii_cover.jpg?version=41121775-c817-468d-b5e2-9e6256eecd27",
+              "chapterCnt": 693,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960181814,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980215335,
+              "shelfStatus": 1,
+              "authorPenname": "陆大喵",
+              "priceUnit": 5,
+              "price":1,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 0,
+              "creationDate": 1499479266000,
+              "title": "洪荒小卖部",
+              "categoryIds": "WXXX",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/18/14/1960181814_ii_cover.jpg?version=fd99540c-81f7-4f7b-b683-c14319d2d045",
+              "chapterCnt": 618,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960180612,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980214116,
+              "shelfStatus": 1,
+              "authorPenname": "呼啦圈大神",
+              "priceUnit": 5,
+              "price":1,
+              "mediaType": 1,
+              "promotionId": 3,
+              "avgStarLevel": 5,
+              "creationDate": 1497461468000,
+              "title": "舌尖上的大宋",
+              "categoryIds": "LSJS",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/6/12/1960180612_ii_cover.jpg?version=1041aab5-e522-4898-af51-f38d0a325673",
+              "chapterCnt": 677,
+              "commentNumber": 5
+            }
+          ],
+          "link":"更多即将限免>>"
+        },
+        {
+          "name": "主编力荐",
+          "lists": [
+            {
+              "mediaId": 1960113587,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980147091,
+              "shelfStatus": 1,
+              "authorPenname": "辰东",
+              "priceUnit": 5,
+              "price":0,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1466597045000,
+              "title": "遮天",
+              "categoryIds": "WXXX",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/35/87/1960113587_ii_cover.jpg?version=47ed2445-6360-4f14-b713-12323663c181",
+              "chapterCnt": 1862,
+              "commentNumber": 11
+            },
+            {
+              "mediaId": 1960107829,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980141333,
+              "shelfStatus": 1,
+              "authorPenname": "御史大夫",
+              "priceUnit": 5,
+              "price":0,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1466389183000,
+              "title": "通天官路",
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/78/29/1960107829_ii_cover.jpg?version=fb9bb122-ef49-4c46-91a8-cf159dfd4c7b",
+              "chapterCnt": 767,
+              "commentNumber": 445
+            },
+            {
+              "mediaId": 1960097426,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980130930,
+              "shelfStatus": 1,
+              "authorPenname": "任性的狮子",
+              "priceUnit": 5,
+              "price":0,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1466387947000,
+              "title": "美女总裁的全能兵王",
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/74/26/1960097426_ii_cover.jpg?version=9874102d-ce6b-484d-acb8-db7d1ad894a4",
+              "chapterCnt": 1445,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960085431,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980118935,
+              "shelfStatus": 1,
+              "authorPenname": "权掌天下",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "price":0,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1463645791000,
+              "title": "修真狂少",
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/54/31/1960085431_ii_cover.jpg?version=ea5444f0-3eeb-44ba-a3ad-356a107c0e3b",
+              "chapterCnt": 1358,
+              "commentNumber": 4
+            },
+            {
+              "mediaId": 1960116353,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980149857,
+              "shelfStatus": 1,
+              "authorPenname": "静夜寄思",
+              "priceUnit": 5,
+              "price":0,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1467699485000,
+              "title": "仙界归来",
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/63/53/1960116353_ii_cover.jpg?version=4cae250a-56ee-4bd8-bc7f-695b98b72872",
+              "chapterCnt": 1445,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960084426,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980117929,
+              "shelfStatus": 1,
+              "authorPenname": "延北老九",
+              "priceUnit": 5,
+              "price":0,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1460612642000,
+              "title": "法医禁忌档案",
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/44/26/1960084426_ii_cover.jpg?version=1e54d41e-c1cf-4d4b-aefd-5e022334036a",
+              "chapterCnt": 506,
+              "commentNumber": 21
+            }
+          ],
+          "link":"查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule": {
+        "left": {
+          "Bigtitle": "今日红文",
+          "dec": "紧跟流行风向",
+          "img": "http://img60.ddimg.cn/www/a/5/NZ1.jpg"
+        },
+        "right": [
+          {
+            "left": {
+              "name": "大神专区",
+              "dec": "一起品味精品"
+            },
+            "right": {
+              "img": "http://img62.ddimg.cn/wangwen2017/03/ny1.jpg"
+            }
+          },
+          {
+            "left": {
+              "name": "新书尝鲜",
+              "dec": "汇聚热点新书"
+            },
+            "right": {
+              "img": "http://img63.ddimg.cn/wangwen2017/03/ny2.jpg"
+            }
+          }
+        ]
+      },
+      "Smallmodule":[
+        {
+          "name": "当当首发",
+          "lists": [
+            {
+              "mediaId": 1960155827,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980189331,
+              "shelfStatus": 1,
+              "authorPenname": "半边阳光",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1490502669000,
+              "title": "噬尸灵",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/58/27/1960155827_ii_cover.jpg?version=7a4286d0-3bf8-4fd5-b8aa-38c3202eb750",
+              "chapterCnt": 134,
+              "commentNumber": 40
+            },
+            {
+              "mediaId": 1960156927,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980190431,
+              "shelfStatus": 1,
+              "authorPenname": "王良一",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1494075671000,
+              "title": "星系守望者",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/69/27/1960156927_ii_cover.jpg?version=68b77ca7-e189-414b-9a60-819217ed60b8",
+              "chapterCnt": 140,
+              "commentNumber": 107
+            },
+            {
+              "mediaId": 1960151870,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980185374,
+              "shelfStatus": 1,
+              "authorPenname": "苍月焰",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 4,
+              "subTitle": "",
+              "creationDate": 1475896324000,
+              "title": "我有阴阳眼",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/18/70/1960151870_ii_cover.jpg?version=467b0bee-4287-448a-b385-d8dee345cc39",
+              "chapterCnt": 215,
+              "commentNumber": 2
+            },
+            {
+              "mediaId": 1960072237,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980105742,
+              "shelfStatus": 1,
+              "authorPenname": "无怨",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1453950996000,
+              "title": "凶案谜局",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/22/37/1960072237_ii_cover.jpg?version=c3a447e1-e7f3-4fb2-902d-f313e476c086",
+              "chapterCnt": 717,
+              "commentNumber": 32
+            },
+            {
+              "mediaId": 1960085306,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980118810,
+              "shelfStatus": 1,
+              "authorPenname": "西野荒芜",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1463056205000,
+              "title": "地下停尸场",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/53/6/1960085306_ii_cover.jpg?version=b6e00db7-16c2-4a57-98c6-ae6ddc345d7d",
+              "chapterCnt": 700,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960158985,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980192489,
+              "shelfStatus": 1,
+              "authorPenname": "漫雨",
+              "priceUnit": 0,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1494576664000,
+              "title": "仙医小神农",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/89/85/1960158985_ii_cover.jpg?version=273231f5-4dac-4a60-8eae-0925673bbe11",
+              "chapterCnt": 277,
+              "commentNumber": 6
+            }
+          ],
+          "link":"查看更多>>"
+        }
+      ]
+    },
+    {
+      "Bigmodule":[
+        {"icon":"http://img62.ddimg.cn/wangwen2017/yangyyy/0gc.jpg" },
+        {"icon":"http://img61.ddimg.cn/wangwen2017/yangyyy/0am.jpg"  },
+        {"icon":"http://img60.ddimg.cn/wangwen2017/yangyyy/0jb.jpg"},
+        {"icon":"http://img63.ddimg.cn/wangwen2017/yangyyy/0js.jpg"}
+      ],
+      "Smallmodule":[
+        {
+          "name": "现代都市",
+          "lists": [
+            {
+              "mediaId": 1960112955,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980146459,
+              "shelfStatus": 1,
+              "authorPenname": "曲封",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1466585527000,
+              "title": "重任",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/29/55/1960112955_ii_cover.jpg?version=b9e988f2-e393-4a3c-bd79-5f3c58225cd9",
+              "chapterCnt": 1271,
+              "commentNumber": 3
+            },
+            {
+              "mediaId": 1960107987,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980141491,
+              "shelfStatus": 1,
+              "authorPenname": "小桥老树",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 3,
+              "creationDate": 1466389198000,
+              "title": "静州往事",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/79/87/1960107987_ii_cover.jpg?version=36e11c96-1391-4c01-a0d8-9a8876212502",
+              "chapterCnt": 487,
+              "commentNumber": 2
+            },
+            {
+              "mediaId": 1960085053,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980118557,
+              "shelfStatus": 1,
+              "authorPenname": "夏冬",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1461668825000,
+              "title": "圈套：一个套子引发的血案",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/50/53/1960085053_ii_cover.jpg?version=864d70a0-651f-40a7-9238-6af5328a97c6",
+              "chapterCnt": 655,
+              "commentNumber": 8
+            },
+            {
+              "mediaId": 1960112856,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980146360,
+              "shelfStatus": 1,
+              "authorPenname": "何常在",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1466583726000,
+              "title": "官运",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/28/56/1960112856_ii_cover.jpg?version=e3bb047c-1b4e-4c59-9dc5-b6e5bf103039",
+              "chapterCnt": 551,
+              "commentNumber": 6
+            },
+            {
+              "mediaId": 1960114195,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980147699,
+              "shelfStatus": 1,
+              "authorPenname": "齐橙",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1466608204000,
+              "title": "工业霸主",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/41/95/1960114195_ii_cover.jpg?version=5ec05003-916a-4819-8b41-a209765d65cc",
+              "chapterCnt": 761,
+              "commentNumber": 6
+            },
+            {
+              "mediaId": 1960083489,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980116992,
+              "shelfStatus": 1,
+              "authorPenname": "东门小官人",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1459490762000,
+              "title": "我和离婚主妇",
+              "price": 0,
+              "categoryIds": "XDDS",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/34/89/1960083489_ii_cover.jpg?version=516161a3-9e4b-4528-8906-b1b877bf4ff5",
+              "chapterCnt": 855,
+              "commentNumber": 1020
+            }
+          ],
+          "link":"查看更多>>"
+        },
+        {
+          "name": "玄幻奇幻",
+          "lists": [
+            {
+              "mediaId": 1960154568,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980188072,
+              "shelfStatus": 1,
+              "authorPenname": "辰东",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1480511646000,
+              "title": "圣墟",
+              "price": 0,
+              "categoryIds": "XHQH",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/45/68/1960154568_ii_cover.jpg?version=93b4b142-c701-4063-9b6f-2356bde95eb4",
+              "chapterCnt": 709,
+              "commentNumber": 80
+            },
+            {
+              "mediaId": 1960152030,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980185534,
+              "shelfStatus": 1,
+              "authorPenname": "耳东水寿",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1476082085000,
+              "title": "民调局异闻录之勉传",
+              "price": 0,
+              "categoryIds": "XHQH",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/20/30/1960152030_ii_cover.jpg?version=0b9625df-0e78-4b04-a587-117fa530dfa2",
+              "chapterCnt": 1463,
+              "commentNumber": 18
+            },
+            {
+              "mediaId": 1960116347,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980149851,
+              "shelfStatus": 1,
+              "authorPenname": "唐家三少",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1467699370000,
+              "title": "龙王传说",
+              "price": 0,
+              "categoryIds": "XHQH",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/63/47/1960116347_ii_cover.jpg?version=0ba34204-502d-4794-a9ec-4dea6f3523cc",
+              "chapterCnt": 1358,
+              "commentNumber": 484
+            },
+            {
+              "mediaId": 1960082467,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980115970,
+              "shelfStatus": 1,
+              "authorPenname": "天上无鱼",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1458035466000,
+              "title": "灭世武修",
+              "price": 0,
+              "categoryIds": "XHQH",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/24/67/1960082467_ii_cover.jpg?version=061b160f-21f9-4602-8529-5133f3a8e70e",
+              "chapterCnt": 2482,
+              "commentNumber": 21
+            },
+            {
+              "mediaId": 1960154022,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980187526,
+              "shelfStatus": 1,
+              "authorPenname": "骑马钓鱼",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1479708785000,
+              "title": "麻衣神算子",
+              "price": 0,
+              "categoryIds": "XHQH",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/40/22/1960154022_ii_cover.jpg?version=d88094ea-b9f3-4cad-abf8-daf59c15b0d0",
+              "chapterCnt": 1696,
+              "commentNumber": 48
+            },
+            {
+              "mediaId": 1960154235,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980187739,
+              "shelfStatus": 1,
+              "authorPenname": "天岩",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1480500325000,
+              "title": "战天龙帝",
+              "price": 0,
+              "categoryIds": "XHQH",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/42/35/1960154235_ii_cover.jpg?version=32053662-2fa7-4046-a1f4-dfbdf847e753",
+              "chapterCnt": 1257,
+              "commentNumber": 0
+            }
+          ],
+          "link":"查看更多>>"
+        },
+        {
+          "name": "科幻灵异",
+          "lists": [
+            {
+              "mediaId": 1960071949,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980105454,
+              "shelfStatus": 1,
+              "authorPenname": "李清兆",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "subTitle": "",
+              "creationDate": 1453286205000,
+              "title": "皇陵守墓人",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/19/49/1960071949_ii_cover.jpg?version=2ce4971b-97e0-431a-9f4a-9bbeeaf996c5",
+              "chapterCnt": 774,
+              "commentNumber": 252
+            },
+            {
+              "mediaId": 1960153544,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980187048,
+              "shelfStatus": 1,
+              "authorPenname": "羽衣老吴",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 5,
+              "creationDate": 1477679716000,
+              "title": "我老婆是鬼王",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img61.ddimg.cn/digital/product/35/44/1960153544_ii_cover.jpg?version=fca43810-efcc-482f-9d15-2e0e04b10215",
+              "chapterCnt": 1428,
+              "commentNumber": 2
+            },
+            {
+              "mediaId": 1960181802,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980215323,
+              "shelfStatus": 1,
+              "authorPenname": "剑无云",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1499473147000,
+              "title": "恐怖红包群",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/18/2/1960181802_ii_cover.jpg?version=099047f5-59b8-4058-bcba-9d968392d5b8",
+              "chapterCnt": 498,
+              "commentNumber": 6
+            },
+            {
+              "mediaId": 1960101849,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980135353,
+              "shelfStatus": 1,
+              "authorPenname": "崔走召",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1466388536000,
+              "title": "我当鸟人的那几年",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/18/49/1960101849_ii_cover.jpg?version=a65ac736-c849-4ce2-a7e9-1ec4cf624b15",
+              "chapterCnt": 364,
+              "commentNumber": 0
+            },
+            {
+              "mediaId": 1960176384,
+              "audioAuthor": "",
+              "isFull": 0,
+              "isStore": 0,
+              "saleId": 1980209888,
+              "shelfStatus": 1,
+              "authorPenname": "王里予",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "promotionId": 0,
+              "avgStarLevel": 5,
+              "creationDate": 1497287467000,
+              "title": "阴阳后裔",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img60.ddimg.cn/digital/product/63/84/1960176384_ii_cover.jpg?version=68576cb1-8712-4d40-b1c7-7411d5756181",
+              "chapterCnt": 551,
+              "commentNumber": 10
+            },
+            {
+              "mediaId": 1960144452,
+              "audioAuthor": "",
+              "isFull": 1,
+              "isStore": 0,
+              "saleId": 1980177956,
+              "shelfStatus": 1,
+              "authorPenname": "周雨楼",
+              "priceUnit": 5,
+              "mediaType": 1,
+              "avgStarLevel": 0,
+              "creationDate": 1473332686000,
+              "title": "变形金刚闯异界",
+              "price": 0,
+              "categoryIds": "KHLY",
+              "channelHall": false,
+              "coverPic": "http://img62.ddimg.cn/digital/product/44/52/1960144452_ii_cover.jpg?version=916b48e4-1bb3-4c03-9afe-9267a6f4984d",
+              "chapterCnt": 286,
+              "commentNumber": 0
+            }
+          ],
+          "link":"查看更多>>"
+        }
+      ]
+    },
+    {
+      "Smallmodule":[{
+        "title":"猜你喜欢",
+        "content":[
+          {
+            "left":{"img":"http://img61.ddimg.cn/digital/product/59/55/1960145955_cc_cover.jpg?version=b497002c-14ac-47a9-bae8-b7e3ea7eaa09"},
+            "right":{
+              "name":"大国手",
+              "dec":"隐为者",
+              "ico":"医学界最难攻克的世界难题，艺术界璀璨灿烂的文明，军事界剑走偏锋的武器，科技界无人能解的猜想，文物界，玉石界…只要姬年所到之处，所有问题都将迎刃而解，掌心元气大放异彩，助他成为世界上最传奇的大国手。"
+            }
+          },
+          {
+            "left":{"img":"http://img60.ddimg.cn/digital/product/65/13/1960116513_cc_cover.jpg?version=b8043428-fee5-4acd-bd61-a8d0879d0bf0"},
+            "right":{
+              "name":"绝鼎丹尊",
+              "dec":"万古青莲",
+              "ico":"一代天骄丹尊，因炼制生死轮回丹陨落，魂魄重生于平凡少年方林体内，从此方林便一发不可收拾。丹道天才？在我堂堂丹尊面前，你就是渣渣！武道天才？来来来，尝尝你方大师炼制的丹药。丹尊之路，崎岖坎坷，九鼎之上，是为绝鼎！建了一个群：310159658（有过三百万字完本老书，绝不太监，放心入坑）"
+            }
+          },
+          {
+            "left":{"img":"http://img61.ddimg.cn/digital/product/24/75/1960172475_cc_cover.jpg?version=0f913e28-d8ce-43ba-beb4-911cb88a2ebf"},
+            "right":{
+              "name":"英雄联盟之无敌升级",
+              "dec":"君莫愁",
+              "ico":"【超级爽文，火热追读】携带英雄联盟无敌系统穿越到强者横行的异界，从此装逼之路大开！啥是无敌系统？就是只有你想不到，没有它做不到！真的，真的不是一般的杀怪升级哦！继《英雄联盟之无敌召唤》后的又一力作，大家顶起！V粉群：17640706"
+            }
+          },
+          {
+            "left":{"img":"http://img62.ddimg.cn/digital/product/76/84/1960147684_cc_cover.jpg?version=499de52f-aab6-41e9-bc15-b0bad286599c" },
+            "right":{
+              "name":"丹武帝尊",
+              "dec":"暗点",
+              "ico":"五百年前，叶星辰被一位绝色美女师父投入炼丹炉炼化，还被她夺取了帝王级的本命丹火，因而一代天才丹皇就此陨落。　　五百年后，叶星辰重生于凌阳镇叶家子弟身上，机缘觉醒帝尊级的本命丹火，而当年的宫瑶已成世人敬仰的丹道大帝。“那又如何？宫瑶，你将我投入炼丹炉之中炼化，夺我本命丹火，待我崛起之日，便是你命丧黄泉之际！”"
+            }
+          },
+          {
+            "left":{"img":"http://img62.ddimg.cn/digital/product/79/95/1960097995_cc_cover.jpg?version=a5aa2347-4e11-44d3-89f3-31aa6c3cd202"},
+            "right":{
+              "name":"玄天魂尊",
+              "dec":"暗魔师",
+              "ico":"天玄大陆！威震天下的逍遥魂皇叶逍遥，意外在玄域陨落！百年后，他重生于流云国星玄学院被人欺辱的学员叶玄身上，从被人嘲讽的废武魂、死脉，到传说中的逆天三生武魂，他从此踏上一段震惊大陆之旅！（感谢阅文官方书评团提供书评支持"
+            }
+          }
+        ]
+
+      }
+        ]
+    }
+  ]
+}
